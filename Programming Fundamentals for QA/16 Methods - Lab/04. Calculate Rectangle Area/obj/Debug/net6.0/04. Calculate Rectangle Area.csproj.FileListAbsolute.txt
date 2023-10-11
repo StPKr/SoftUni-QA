@@ -12,3 +12,17 @@ D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Me
 D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.pdb
 D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.genruntimeconfig.cache
 D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\ref\04. Calculate Rectangle Area.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\refint\04. Calculate Rectangle Area.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\16 Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\ref\04. Calculate Rectangle Area.dll

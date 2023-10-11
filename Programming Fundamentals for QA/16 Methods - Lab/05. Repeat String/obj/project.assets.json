@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\QA\\Programming Fundamentals for QA\\8 Exercises Nested Loops\\16 Methods - Lab\\05. Repeat String\\05. Repeat String.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\16 Methods - Lab\\05. Repeat String\\05. Repeat String.csproj",
       "projectName": "05. Repeat String",
-      "projectPath": "D:\\Programming\\QA\\Programming Fundamentals for QA\\8 Exercises Nested Loops\\16 Methods - Lab\\05. Repeat String\\05. Repeat String.csproj",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\16 Methods - Lab\\05. Repeat String\\05. Repeat String.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\QA\\Programming Fundamentals for QA\\8 Exercises Nested Loops\\16 Methods - Lab\\05. Repeat String\\obj\\",
+      "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\16 Methods - Lab\\05. Repeat String\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
