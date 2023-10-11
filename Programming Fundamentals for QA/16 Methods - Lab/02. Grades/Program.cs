@@ -1,4 +1,4 @@
-﻿namespace _02._Grades
+﻿namespace _02._Grades_test
 {
     internal class Program
     {
