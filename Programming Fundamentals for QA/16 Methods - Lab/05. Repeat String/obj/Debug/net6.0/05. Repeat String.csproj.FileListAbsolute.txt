@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\refint\05. Repeat String.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\05. Repeat String\obj\Debug\net6.0\ref\05. Repeat String.dll

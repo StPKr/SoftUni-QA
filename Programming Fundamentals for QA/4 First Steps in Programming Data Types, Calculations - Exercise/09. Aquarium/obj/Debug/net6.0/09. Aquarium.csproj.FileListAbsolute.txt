@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\bin\Debug\net6.0\09. Aquarium.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\refint\09. Aquarium.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\09. Aquarium.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\09. Aquarium\obj\Debug\net6.0\ref\09. Aquarium.dll

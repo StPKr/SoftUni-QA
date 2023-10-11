@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\bin\Debug\net6.0\Test.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\bin\Debug\net6.0\Test.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\bin\Debug\net6.0\Test.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\bin\Debug\net6.0\Test.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\refint\Test.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\Test\obj\Debug\net6.0\ref\Test.dll

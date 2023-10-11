@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\bin\Debug\net6.0\08. Basketball Equipment.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\refint\08. Basketball Equipment.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\08. Basketball Equipment.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\08. Basketball Equipment\obj\Debug\net6.0\ref\08. Basketball Equipment.dll

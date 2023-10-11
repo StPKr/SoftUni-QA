@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\bin\Debug\net6.0\02.exe
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\bin\Debug\net6.0\02.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\bin\Debug\net6.0\02.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\bin\Debug\net6.0\02.dll
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\bin\Debug\net6.0\02.pdb
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.dll
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\refint\02.dll
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.pdb
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\02.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\06 Loops While and For Loops. Nested Loops\6 Loops While and For Loops Nested Loops\02\obj\Debug\net6.0\ref\02.dll

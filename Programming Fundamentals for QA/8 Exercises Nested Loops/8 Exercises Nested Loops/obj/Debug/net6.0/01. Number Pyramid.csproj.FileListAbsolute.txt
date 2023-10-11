@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\bin\Debug\net6.0\01. Number Pyramid.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\bin\Debug\net6.0\01. Number Pyramid.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\bin\Debug\net6.0\01. Number Pyramid.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\bin\Debug\net6.0\01. Number Pyramid.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\bin\Debug\net6.0\01. Number Pyramid.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\refint\01. Number Pyramid.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\01. Number Pyramid.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\8 Exercises Nested Loops\obj\Debug\net6.0\ref\01. Number Pyramid.dll

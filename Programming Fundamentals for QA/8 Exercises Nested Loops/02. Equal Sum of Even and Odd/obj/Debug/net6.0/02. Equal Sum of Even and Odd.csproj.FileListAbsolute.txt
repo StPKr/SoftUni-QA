@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\refint\02. Equal Sum of Even and Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\ref\02. Equal Sum of Even and Odd.dll

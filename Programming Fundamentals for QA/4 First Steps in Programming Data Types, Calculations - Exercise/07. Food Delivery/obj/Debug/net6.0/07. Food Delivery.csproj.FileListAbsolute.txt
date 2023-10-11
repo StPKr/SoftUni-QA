@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\refint\07. Food Delivery.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\07. Food Delivery\obj\Debug\net6.0\ref\07. Food Delivery.dll

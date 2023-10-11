@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\bin\Debug\net6.0\09.exe
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\bin\Debug\net6.0\09.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\bin\Debug\net6.0\09.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\bin\Debug\net6.0\09.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\bin\Debug\net6.0\09.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\refint\09.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\09.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\09\obj\Debug\net6.0\ref\09.dll

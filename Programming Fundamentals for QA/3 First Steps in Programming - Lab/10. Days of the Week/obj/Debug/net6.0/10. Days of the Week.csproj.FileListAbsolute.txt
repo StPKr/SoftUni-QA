@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.exe
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.dll
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\bin\Debug\net6.0\10. Days of the Week.pdb
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.dll
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\refint\10. Days of the Week.dll
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.pdb
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\10. Days of the Week.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\10. Days of the Week\obj\Debug\net6.0\ref\10. Days of the Week.dll

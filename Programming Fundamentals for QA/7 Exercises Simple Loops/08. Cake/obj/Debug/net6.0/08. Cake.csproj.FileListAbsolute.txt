@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\bin\Debug\net6.0\08. Cake.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\bin\Debug\net6.0\08. Cake.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\bin\Debug\net6.0\08. Cake.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\bin\Debug\net6.0\08. Cake.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\bin\Debug\net6.0\08. Cake.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\refint\08. Cake.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\08. Cake.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\08. Cake\obj\Debug\net6.0\ref\08. Cake.dll

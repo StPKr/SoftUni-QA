@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\refint\03. Printing Triangle.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\ref\03. Printing Triangle.dll

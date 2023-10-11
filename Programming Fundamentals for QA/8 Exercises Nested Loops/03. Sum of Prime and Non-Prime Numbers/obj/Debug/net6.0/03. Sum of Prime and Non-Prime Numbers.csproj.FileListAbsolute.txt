@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\bin\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\refint\03. Sum of Prime and Non-Prime Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\03. Sum of Prime and Non-Prime Numbers.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\03. Sum of Prime and Non-Prime Numbers\obj\Debug\net6.0\ref\03. Sum of Prime and Non-Prime Numbers.dll

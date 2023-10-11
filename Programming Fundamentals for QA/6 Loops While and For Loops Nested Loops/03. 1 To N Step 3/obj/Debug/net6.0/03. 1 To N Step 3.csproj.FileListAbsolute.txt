@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\bin\Debug\net6.0\03. 1 To N Step 3.exe
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\bin\Debug\net6.0\03. 1 To N Step 3.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\bin\Debug\net6.0\03. 1 To N Step 3.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\bin\Debug\net6.0\03. 1 To N Step 3.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\bin\Debug\net6.0\03. 1 To N Step 3.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\refint\03. 1 To N Step 3.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\03. 1 To N Step 3.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\03. 1 To N Step 3\obj\Debug\net6.0\ref\03. 1 To N Step 3.dll

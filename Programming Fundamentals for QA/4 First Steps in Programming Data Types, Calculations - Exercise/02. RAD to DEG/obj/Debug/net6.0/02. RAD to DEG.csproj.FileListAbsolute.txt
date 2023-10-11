@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\bin\Debug\net6.0\02. RAD to DEG.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\refint\02. RAD to DEG.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\02. RAD to DEG.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\02. RAD to DEG\obj\Debug\net6.0\ref\02. RAD to DEG.dll

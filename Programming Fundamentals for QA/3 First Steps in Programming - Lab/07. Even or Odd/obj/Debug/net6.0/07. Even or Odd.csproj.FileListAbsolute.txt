@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\bin\Debug\net6.0\07. Even or Odd.exe
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\bin\Debug\net6.0\07. Even or Odd.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\bin\Debug\net6.0\07. Even or Odd.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\bin\Debug\net6.0\07. Even or Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\bin\Debug\net6.0\07. Even or Odd.pdb
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\refint\07. Even or Odd.dll
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.pdb
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\07. Even or Odd.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\07. Even or Odd\obj\Debug\net6.0\ref\07. Even or Odd.dll

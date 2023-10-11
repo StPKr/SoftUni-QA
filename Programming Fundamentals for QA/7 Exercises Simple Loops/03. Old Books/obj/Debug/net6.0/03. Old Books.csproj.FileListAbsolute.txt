@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\bin\Debug\net6.0\03. Old Books.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\bin\Debug\net6.0\03. Old Books.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\bin\Debug\net6.0\03. Old Books.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\bin\Debug\net6.0\03. Old Books.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\bin\Debug\net6.0\03. Old Books.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\refint\03. Old Books.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\03. Old Books.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\03. Old Books\obj\Debug\net6.0\ref\03. Old Books.dll

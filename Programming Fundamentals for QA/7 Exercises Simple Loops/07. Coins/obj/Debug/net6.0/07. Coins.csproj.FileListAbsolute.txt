@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\bin\Debug\net6.0\07. Coins.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\bin\Debug\net6.0\07. Coins.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\bin\Debug\net6.0\07. Coins.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\bin\Debug\net6.0\07. Coins.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\bin\Debug\net6.0\07. Coins.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\refint\07. Coins.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\07. Coins.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\07. Coins\obj\Debug\net6.0\ref\07. Coins.dll

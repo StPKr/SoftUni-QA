@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\bin\Debug\net6.0\04. Mandatory Literature.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\refint\04. Mandatory Literature.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\04. Mandatory Literature.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\04. Mandatory Literature\obj\Debug\net6.0\ref\04. Mandatory Literature.dll

@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\refint\06. Math Power.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\16 Methods - Lab\06. Math Power\obj\Debug\net6.0\ref\06. Math Power.dll

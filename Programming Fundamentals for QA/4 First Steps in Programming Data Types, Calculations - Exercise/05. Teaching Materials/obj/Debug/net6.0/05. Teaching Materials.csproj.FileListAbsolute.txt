@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\bin\Debug\net6.0\05. Teaching Materials.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\refint\05. Teaching Materials.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\05. Teaching Materials.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\05. Teaching Materials\obj\Debug\net6.0\ref\05. Teaching Materials.dll

@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\bin\Debug\net6.0\07. Account Balance.exe
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\bin\Debug\net6.0\07. Account Balance.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\bin\Debug\net6.0\07. Account Balance.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\bin\Debug\net6.0\07. Account Balance.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\bin\Debug\net6.0\07. Account Balance.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\refint\07. Account Balance.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\07. Account Balance.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\07. Account Balance\obj\Debug\net6.0\ref\07. Account Balance.dll

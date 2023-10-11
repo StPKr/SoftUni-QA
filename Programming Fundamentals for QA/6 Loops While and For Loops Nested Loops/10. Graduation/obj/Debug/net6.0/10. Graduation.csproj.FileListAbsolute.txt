@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.exe
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\bin\Debug\net6.0\10. Graduation.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\refint\10. Graduation.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\10. Graduation.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\10. Graduation\obj\Debug\net6.0\ref\10. Graduation.dll

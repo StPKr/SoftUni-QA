@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\bin\Debug\net6.0\02. Half Sum Element.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\refint\02. Half Sum Element.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\02. Half Sum Element.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\02. Half Sum Element\obj\Debug\net6.0\ref\02. Half Sum Element.dll

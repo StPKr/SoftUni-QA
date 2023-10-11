@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\bin\Debug\net6.0\06. Redecorating.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\bin\Debug\net6.0\06. Redecorating.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\bin\Debug\net6.0\06. Redecorating.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\bin\Debug\net6.0\06. Redecorating.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\bin\Debug\net6.0\06. Redecorating.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\refint\06. Redecorating.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\06. Redecorating.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\06. Redecorating\obj\Debug\net6.0\ref\06. Redecorating.dll

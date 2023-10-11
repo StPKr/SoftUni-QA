@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\bin\Debug\net6.0\08. The Greater Number.exe
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\bin\Debug\net6.0\08. The Greater Number.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\bin\Debug\net6.0\08. The Greater Number.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\bin\Debug\net6.0\08. The Greater Number.dll
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\bin\Debug\net6.0\08. The Greater Number.pdb
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.dll
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\refint\08. The Greater Number.dll
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.pdb
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\08. The Greater Number.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\08. The Greater Number\obj\Debug\net6.0\ref\08. The Greater Number.dll

@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.exe
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\refint\04. Fishing Boat.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\04. Fishing Boat\obj\Debug\net6.0\ref\04. Fishing Boat.dll

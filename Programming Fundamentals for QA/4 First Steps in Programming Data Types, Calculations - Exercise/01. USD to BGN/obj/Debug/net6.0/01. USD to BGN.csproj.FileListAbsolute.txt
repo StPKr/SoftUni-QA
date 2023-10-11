@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.exe
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\refint\01. USD to BGN.dll
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.pdb
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\First Steps in Programming Data Types, Calculations - Exercise\01. USD to BGN\obj\Debug\net6.0\ref\01. USD to BGN.dll

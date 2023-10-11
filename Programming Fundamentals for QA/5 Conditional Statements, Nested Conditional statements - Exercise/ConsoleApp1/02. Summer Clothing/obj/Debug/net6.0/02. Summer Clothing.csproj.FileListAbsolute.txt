@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\bin\Debug\net6.0\02. Summer Clothing.exe
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\bin\Debug\net6.0\02. Summer Clothing.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\bin\Debug\net6.0\02. Summer Clothing.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\bin\Debug\net6.0\02. Summer Clothing.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\bin\Debug\net6.0\02. Summer Clothing.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\refint\02. Summer Clothing.dll
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.pdb
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\02. Summer Clothing.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\Conditional Statements, Nested Conditional statements - Exercise\ConsoleApp1\02. Summer Clothing\obj\Debug\net6.0\ref\02. Summer Clothing.dll

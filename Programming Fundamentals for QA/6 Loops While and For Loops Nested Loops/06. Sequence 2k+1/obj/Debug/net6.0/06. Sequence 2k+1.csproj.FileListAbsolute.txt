@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\bin\Debug\net6.0\06. Sequence 2k+1.exe
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\bin\Debug\net6.0\06. Sequence 2k+1.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\bin\Debug\net6.0\06. Sequence 2k+1.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\bin\Debug\net6.0\06. Sequence 2k+1.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\bin\Debug\net6.0\06. Sequence 2k+1.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\refint\06. Sequence 2k+1.dll
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.pdb
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\06. Sequence 2k+1.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\6 Loops While and For Loops Nested Loops\06. Sequence 2k+1\obj\Debug\net6.0\ref\06. Sequence 2k+1.dll

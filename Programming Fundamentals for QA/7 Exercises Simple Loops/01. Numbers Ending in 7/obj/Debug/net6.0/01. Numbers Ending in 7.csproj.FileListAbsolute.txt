@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\refint\01. Numbers Ending in 7.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\01. Numbers Ending in 7\obj\Debug\net6.0\ref\01. Numbers Ending in 7.dll

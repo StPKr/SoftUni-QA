@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\bin\Debug\net6.0\04. Exam Preparation.exe
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\bin\Debug\net6.0\04. Exam Preparation.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\bin\Debug\net6.0\04. Exam Preparation.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\bin\Debug\net6.0\04. Exam Preparation.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\bin\Debug\net6.0\04. Exam Preparation.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\refint\04. Exam Preparation.dll
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.pdb
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\04. Exam Preparation.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\7 Exercises Simple Loops\04. Exam Preparation\obj\Debug\net6.0\ref\04. Exam Preparation.dll

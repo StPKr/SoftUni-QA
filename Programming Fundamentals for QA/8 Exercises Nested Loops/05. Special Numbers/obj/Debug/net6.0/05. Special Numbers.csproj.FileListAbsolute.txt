@@ -1,0 +1,14 @@
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.exe
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.deps.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.runtimeconfig.json
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfo.cs
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\refint\05. Special Numbers.dll
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.pdb
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.genruntimeconfig.cache
+D:\Programming\QA\Programming Fundamentals for QA\8 Exercises Nested Loops\05. Special Numbers\obj\Debug\net6.0\ref\05. Special Numbers.dll
