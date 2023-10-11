@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sign of Integer Numbers", "01. Sign of Integer Numbers.csproj", "{E43464E3-8BAC-49C1-A7A2-16DB5B229060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sign of Integer Numbers", "01. Sign of Integer Numbers.csproj", "{E43464E3-8BAC-49C1-A7A2-16DB5B229060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Grades", "..\02. Grades\02. Grades.csproj", "{3176003B-B2DE-4380-827C-8974610FEA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Grades", "..\02. Grades\02. Grades.csproj", "{3176003B-B2DE-4380-827C-8974610FEA30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Printing Triangle", "..\03. Printing Triangle\03. Printing Triangle.csproj", "{EDE61750-0DD3-4FCF-8F79-A5F52B6050F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Printing Triangle", "..\03. Printing Triangle\03. Printing Triangle.csproj", "{EDE61750-0DD3-4FCF-8F79-A5F52B6050F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Calculate Rectangle Area", "..\04. Calculate Rectangle Area\04. Calculate Rectangle Area.csproj", "{52920E49-C4A8-42D0-892C-3B0B1A6E96AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Calculate Rectangle Area", "..\04. Calculate Rectangle Area\04. Calculate Rectangle Area.csproj", "{52920E49-C4A8-42D0-892C-3B0B1A6E96AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Repeat String", "..\05. Repeat String\05. Repeat String.csproj", "{C3CF8628-4EF5-471D-A998-E29A3F3A7ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Repeat String", "..\05. Repeat String\05. Repeat String.csproj", "{C3CF8628-4EF5-471D-A998-E29A3F3A7ED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Math Power", "..\06. Math Power\06. Math Power.csproj", "{26AF608A-7FA1-448B-A2AC-18691B216410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Math Power", "..\06. Math Power\06. Math Power.csproj", "{26AF608A-7FA1-448B-A2AC-18691B216410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Greater of Two Values", "..\07. Greater of Two Values\07. Greater of Two Values.csproj", "{2C19746A-42FB-4266-8185-86185660A21F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Greater of Two Values", "..\07. Greater of Two Values\07. Greater of Two Values.csproj", "{2C19746A-42FB-4266-8185-86185660A21F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Multiply Evens by Odds", "..\08. Multiply Evens by Odds\08. Multiply Evens by Odds.csproj", "{FD307E65-2897-4762-BBD8-96C5CD614CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Orders", "..\09. Orders\09. Orders.csproj", "{8D8CFC7B-8860-4DB3-A6A9-DF3EEF62E0B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{2C19746A-42FB-4266-8185-86185660A21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C19746A-42FB-4266-8185-86185660A21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C19746A-42FB-4266-8185-86185660A21F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD307E65-2897-4762-BBD8-96C5CD614CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD307E65-2897-4762-BBD8-96C5CD614CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD307E65-2897-4762-BBD8-96C5CD614CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD307E65-2897-4762-BBD8-96C5CD614CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8CFC7B-8860-4DB3-A6A9-DF3EEF62E0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8CFC7B-8860-4DB3-A6A9-DF3EEF62E0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8CFC7B-8860-4DB3-A6A9-DF3EEF62E0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8CFC7B-8860-4DB3-A6A9-DF3EEF62E0B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
