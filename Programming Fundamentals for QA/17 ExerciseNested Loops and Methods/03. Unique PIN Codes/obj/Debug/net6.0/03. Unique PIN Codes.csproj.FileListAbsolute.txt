@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\bin\Debug\net6.0\03. Unique PIN Codes.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\bin\Debug\net6.0\03. Unique PIN Codes.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\bin\Debug\net6.0\03. Unique PIN Codes.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\bin\Debug\net6.0\03. Unique PIN Codes.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\bin\Debug\net6.0\03. Unique PIN Codes.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\refint\03. Unique PIN Codes.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\03. Unique PIN Codes.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\03. Unique PIN Codes\obj\Debug\net6.0\ref\03. Unique PIN Codes.dll

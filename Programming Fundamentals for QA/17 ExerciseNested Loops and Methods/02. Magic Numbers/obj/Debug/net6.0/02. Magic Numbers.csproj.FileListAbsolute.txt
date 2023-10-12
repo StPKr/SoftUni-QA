@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\refint\02. Magic Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\ref\02. Magic Numbers.dll

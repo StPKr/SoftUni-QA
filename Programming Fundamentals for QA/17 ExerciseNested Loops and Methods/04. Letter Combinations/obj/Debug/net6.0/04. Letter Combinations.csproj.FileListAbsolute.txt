@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\refint\04. Letter Combinations.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\04. Letter Combinations\obj\Debug\net6.0\ref\04. Letter Combinations.dll
