@@ -8,10 +8,10 @@ static string SignChecker(int a, int b, int c)
     {
         return "zero";
     }
-    else if (((a > 0) && (b > 0) && (c > 0))
-        || ((a < 0) && (b > 0) && (c < 0))
-        || ((a < 0) && (b < 0) && (c > 0))
-        || ((a > 0) && (b < 0) && (c < 0)))
+    else if ((a > 0 && b > 0 && c > 0)
+        || (a < 0 && b > 0 && c < 0)
+        || (a < 0 && b < 0 && c > 0)
+        || (a > 0 && b < 0 && c < 0))
     {
         return "positive";
     }
