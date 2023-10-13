@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vowels Count", "06. Vow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Factorial Division", "07. Factorial Division\07. Factorial Division.csproj", "{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Multiplication Sign", "08. Multiplication Sign\08. Multiplication Sign.csproj", "{1A100983-04FD-4EC6-8151-647FCB8C148D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A100983-04FD-4EC6-8151-647FCB8C148D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A100983-04FD-4EC6-8151-647FCB8C148D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A100983-04FD-4EC6-8151-647FCB8C148D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A100983-04FD-4EC6-8151-647FCB8C148D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
