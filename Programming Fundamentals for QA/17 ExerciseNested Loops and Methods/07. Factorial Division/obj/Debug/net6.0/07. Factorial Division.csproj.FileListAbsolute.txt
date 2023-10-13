@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\refint\07. Factorial Division.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\17 ExerciseNested Loops and Methods\07. Factorial Division\obj\Debug\net6.0\ref\07. Factorial Division.dll

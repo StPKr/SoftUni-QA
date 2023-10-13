@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stupid Passwords", "01. Stupid Passwords\01. Stupid Passwords.csproj", "{2CC7D876-0990-4905-8FB3-249084654018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Stupid Passwords", "01. Stupid Passwords\01. Stupid Passwords.csproj", "{2CC7D876-0990-4905-8FB3-249084654018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Magic Numbers", "02. Magic Numbers\02. Magic Numbers.csproj", "{8E7449E8-B55B-4C79-AC13-97CC942005C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Magic Numbers", "02. Magic Numbers\02. Magic Numbers.csproj", "{8E7449E8-B55B-4C79-AC13-97CC942005C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Unique PIN Codes", "03. Unique PIN Codes\03. Unique PIN Codes.csproj", "{88EF18BB-5076-4EE7-8531-22E2E05D59DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Unique PIN Codes", "03. Unique PIN Codes\03. Unique PIN Codes.csproj", "{88EF18BB-5076-4EE7-8531-22E2E05D59DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Letter Combinations", "04. Letter Combinations\04. Letter Combinations.csproj", "{32A0CC3D-9638-45FA-8825-2B1EDBD59B8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Letter Combinations", "04. Letter Combinations\04. Letter Combinations.csproj", "{32A0CC3D-9638-45FA-8825-2B1EDBD59B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Happy Numbers", "05. Happy Numbers\05. Happy Numbers.csproj", "{8C5F09E3-C0BF-4824-9798-B66E1D28BA4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Happy Numbers", "05. Happy Numbers\05. Happy Numbers.csproj", "{8C5F09E3-C0BF-4824-9798-B66E1D28BA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vowels Count", "06. Vowels Count\06. Vowels Count.csproj", "{DFA6A0D4-94E3-4015-BD05-25512130AFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Factorial Division", "07. Factorial Division\07. Factorial Division.csproj", "{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{8C5F09E3-C0BF-4824-9798-B66E1D28BA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5F09E3-C0BF-4824-9798-B66E1D28BA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5F09E3-C0BF-4824-9798-B66E1D28BA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA6A0D4-94E3-4015-BD05-25512130AFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA6A0D4-94E3-4015-BD05-25512130AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA6A0D4-94E3-4015-BD05-25512130AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA6A0D4-94E3-4015-BD05-25512130AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEFA58B-83BB-4735-A905-CA8B1B96CD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
