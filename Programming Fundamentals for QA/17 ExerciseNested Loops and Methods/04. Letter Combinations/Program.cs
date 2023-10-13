@@ -9,7 +9,7 @@ for (char i = start; i <= end; i++)
         for (char k = start; k <= end; k++)
         {
            if (i != excluded &&  j != excluded &&  k != excluded){
-            output += $"{i}{j}{k} ";
+            Console.Write($"{i}{j}{k} ");
             }
 
         }
