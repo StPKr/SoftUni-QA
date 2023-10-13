@@ -8,10 +8,9 @@ for (int i = 1; i <=9; i++)
         {
             if (n == i * j * k)
             {
-                output += $"{i}{j}{k} ";
+                Console.Write($"{i}{j}{k} ");
             }
 
         }
     }
 }
-Console.WriteLine(output);
