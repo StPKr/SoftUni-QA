@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum an Array", "02. Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Reverse an Array", "03. Reverse an Array\03. Reverse an Array.csproj", "{5001912C-A31A-4D42-A840-C42BF2F562D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Even and Odd Subtraction", "04. Even and Odd Subtraction\04. Even and Odd Subtraction.csproj", "{2D4624AE-E0F6-4708-9899-AD481A3ED4F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4624AE-E0F6-4708-9899-AD481A3ED4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4624AE-E0F6-4708-9899-AD481A3ED4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4624AE-E0F6-4708-9899-AD481A3ED4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4624AE-E0F6-4708-9899-AD481A3ED4F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

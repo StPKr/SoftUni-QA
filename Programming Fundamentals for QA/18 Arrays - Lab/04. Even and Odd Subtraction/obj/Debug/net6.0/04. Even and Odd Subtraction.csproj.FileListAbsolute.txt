@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\refint\04. Even and Odd Subtraction.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\ref\04. Even and Odd Subtraction.dll
