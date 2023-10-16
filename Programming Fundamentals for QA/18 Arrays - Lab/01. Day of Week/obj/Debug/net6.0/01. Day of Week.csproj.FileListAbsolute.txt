@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\refint\01. Day of Week.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\01. Day of Week\obj\Debug\net6.0\ref\01. Day of Week.dll
