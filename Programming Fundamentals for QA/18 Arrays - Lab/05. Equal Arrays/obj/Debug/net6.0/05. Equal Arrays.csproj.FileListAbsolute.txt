@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\refint\05. Equal Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\ref\05. Equal Arrays.dll
