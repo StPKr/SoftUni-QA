@@ -11,7 +11,7 @@ for (int i = 0; i < array1.Length; i++)
 {
     int element1 = array1[i];
     for (int j = 0; j < array2.Length; j++) { 
-    int element2 = array2[i];
+    int element2 = array2[j];
 
         if (element1 == element2)
         {

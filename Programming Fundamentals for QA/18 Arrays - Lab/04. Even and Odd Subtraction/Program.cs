@@ -4,9 +4,7 @@
     .ToArray();
 int evenSum = 0;
 int oddSum = 0;
-for (int i = 0; i < numbers.Length; i++)
-{
-    int element = numbers[i];
+foreach (int element in numbers){ 
     if (element %2 == 0)
     {
         evenSum += element;
