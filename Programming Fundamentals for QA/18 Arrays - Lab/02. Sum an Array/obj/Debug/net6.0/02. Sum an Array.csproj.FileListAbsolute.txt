@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\refint\02. Sum an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\ref\02. Sum an Array.dll

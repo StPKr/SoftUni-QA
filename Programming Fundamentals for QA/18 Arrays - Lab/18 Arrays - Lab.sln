@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{ADCF8D81-6F2B-424A-BC2D-0207441C5C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum an Array", "02. Sum an Array\02. Sum an Array.csproj", "{07EC0C27-994F-48E4-96E5-33A3E016E61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Reverse an Array", "03. Reverse an Array\03. Reverse an Array.csproj", "{5001912C-A31A-4D42-A840-C42BF2F562D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ADCF8D81-6F2B-424A-BC2D-0207441C5C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADCF8D81-6F2B-424A-BC2D-0207441C5C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADCF8D81-6F2B-424A-BC2D-0207441C5C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EC0C27-994F-48E4-96E5-33A3E016E61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EC0C27-994F-48E4-96E5-33A3E016E61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EC0C27-994F-48E4-96E5-33A3E016E61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EC0C27-994F-48E4-96E5-33A3E016E61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5001912C-A31A-4D42-A840-C42BF2F562D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

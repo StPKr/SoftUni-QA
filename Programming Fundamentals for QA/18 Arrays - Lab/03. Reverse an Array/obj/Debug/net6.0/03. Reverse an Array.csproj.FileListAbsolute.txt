@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\refint\03. Reverse an Array.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\03. Reverse an Array\obj\Debug\net6.0\ref\03. Reverse an Array.dll
