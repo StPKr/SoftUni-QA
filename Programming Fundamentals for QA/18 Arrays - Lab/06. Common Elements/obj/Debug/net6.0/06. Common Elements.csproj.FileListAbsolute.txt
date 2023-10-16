@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\refint\06. Common Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\18 Arrays - Lab\06. Common Elements\obj\Debug\net6.0\ref\06. Common Elements.dll
