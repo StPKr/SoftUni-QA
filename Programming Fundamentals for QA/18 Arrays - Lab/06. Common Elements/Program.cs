@@ -20,4 +20,3 @@ for (int i = 0; i < array1.Length; i++)
     }
 }
 Console.WriteLine(commonElements);
-Console.WriteLine(array1);
