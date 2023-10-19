@@ -1,3 +1,11 @@
 ﻿List<int> list = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
-list.Sort((a,b) => b - a);
-Console.WriteLine(string.Join(" ", list));
+List<int> newList = new List<int>();
+foreach (int a  in list)
+{
+    if (a >= 0)
+    {
+        newList.Add(a);
+    }
+}
+newList.Reverse();
+Console.WriteLine(string.Join(" ", newList));
