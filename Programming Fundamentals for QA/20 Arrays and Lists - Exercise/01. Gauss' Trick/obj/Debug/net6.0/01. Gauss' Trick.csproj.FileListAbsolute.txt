@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\refint\01. Gauss' Trick.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\ref\01. Gauss' Trick.dll
