@@ -1,0 +1,4 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.csproj.CoreCompileInputs.cache

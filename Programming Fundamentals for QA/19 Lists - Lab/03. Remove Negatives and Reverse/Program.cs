@@ -7,5 +7,12 @@ foreach (int a  in list)
         newList.Add(a);
     }
 }
-newList.Reverse();
-Console.WriteLine(string.Join(" ", newList));
+if(newList.Count > 0)
+{
+    newList.Reverse();
+    Console.WriteLine(string.Join(" ", newList));
+}
+else
+{
+    Console.WriteLine("empty");
+}
