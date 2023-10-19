@@ -7,6 +7,7 @@ while (command != "end")
     int element = int.Parse(commandParts[1]);
     // int element = int.Parse(command.Split(" ")[1]; - оптимален начин;
     switch (commandName)
+        // if (command.StartsWith("Add")) - оптимален начин;
     {
         case "Add":
             integers.Add(element);

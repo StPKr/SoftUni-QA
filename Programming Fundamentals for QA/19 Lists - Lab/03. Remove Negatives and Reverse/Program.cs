@@ -1,16 +1,9 @@
 ﻿List<int> list = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
-List<int> newList = new List<int>();
-foreach (int a  in list)
+list.RemoveAll(x => x < 0);
+if(list.Count > 0)
 {
-    if (a >= 0)
-    {
-        newList.Add(a);
-    }
-}
-if(newList.Count > 0)
-{
-    newList.Reverse();
-    Console.WriteLine(string.Join(" ", newList));
+    list.Reverse();
+    Console.WriteLine(string.Join(" ", list));
 }
 else
 {
