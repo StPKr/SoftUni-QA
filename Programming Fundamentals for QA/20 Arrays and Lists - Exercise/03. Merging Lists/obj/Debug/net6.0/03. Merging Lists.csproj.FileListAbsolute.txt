@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\refint\03. Merging Lists.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\ref\03. Merging Lists.dll
