@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\bin\Debug\net6.0\02. Condense Array to Number.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\bin\Debug\net6.0\02. Condense Array to Number.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\bin\Debug\net6.0\02. Condense Array to Number.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\bin\Debug\net6.0\02. Condense Array to Number.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\bin\Debug\net6.0\02. Condense Array to Number.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\refint\02. Condense Array to Number.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\02. Condense Array to Number.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\02. Condense Array to Number\obj\Debug\net6.0\ref\02. Condense Array to Number.dll
