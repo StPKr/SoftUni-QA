@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\bin\Debug\net6.0\02. List of Products.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\bin\Debug\net6.0\02. List of Products.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\bin\Debug\net6.0\02. List of Products.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\bin\Debug\net6.0\02. List of Products.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\bin\Debug\net6.0\02. List of Products.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\refint\02. List of Products.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\02. List of Products.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\19 Lists - Lab\ConsoleApp1\obj\Debug\net6.0\ref\02. List of Products.dll
