@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\refint\07. Zig-Zag Arrays.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\ref\07. Zig-Zag Arrays.dll

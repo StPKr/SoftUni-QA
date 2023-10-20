@@ -12,9 +12,11 @@ while (integers.Contains(bombNumber))
     {
         startIndex = 0;
     }
-    integers.RemoveRange(startIndex, numbersToRemove);
+    if (startIndex + numbersToRemove > integers.Count())
+    {
+        numbersToRemove = integers.Count() - startIndex;
     }
-    //integers.RemoveRange(startIndex, endIndex);
+    integers.RemoveRange(startIndex, numbersToRemove);
 }
 int sum = integers.Sum();
 Console.WriteLine(sum);
