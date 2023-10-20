@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\bin\Debug\net6.0\09. Max Sequence of Equal Elements.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\bin\Debug\net6.0\09. Max Sequence of Equal Elements.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\bin\Debug\net6.0\09. Max Sequence of Equal Elements.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\bin\Debug\net6.0\09. Max Sequence of Equal Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\bin\Debug\net6.0\09. Max Sequence of Equal Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\refint\09. Max Sequence of Equal Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\09. Max Sequence of Equal Elements.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\09. Max Sequence of Equal Elements\obj\Debug\net6.0\ref\09. Max Sequence of Equal Elements.dll
