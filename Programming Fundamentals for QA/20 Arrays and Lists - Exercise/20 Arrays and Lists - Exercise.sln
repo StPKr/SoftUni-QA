@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Gauss' Trick", "01. Gauss' Trick\01. Gauss' Trick.csproj", "{60D9961B-67CB-4DF8-AAC0-38EEBAAE4CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Gauss' Trick", "01. Gauss' Trick\01. Gauss' Trick.csproj", "{60D9961B-67CB-4DF8-AAC0-38EEBAAE4CC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Condense Array to Number", "02. Condense Array to Number\02. Condense Array to Number.csproj", "{C15CC9F0-35FA-4540-B688-665436B91F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Condense Array to Number", "02. Condense Array to Number\02. Condense Array to Number.csproj", "{C15CC9F0-35FA-4540-B688-665436B91F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Merging Lists", "03. Merging Lists\03. Merging Lists.csproj", "{7C4EB495-12A2-418D-B56C-26B69657EF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Merging Lists", "03. Merging Lists\03. Merging Lists.csproj", "{7C4EB495-12A2-418D-B56C-26B69657EF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum Adjacent Equal Numbers", "04. Sum Adjacent Equal Numbers\04. Sum Adjacent Equal Numbers.csproj", "{978B99A5-8B1E-42DD-BBAC-36F246B868B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum Adjacent Equal Numbers", "04. Sum Adjacent Equal Numbers\04. Sum Adjacent Equal Numbers.csproj", "{978B99A5-8B1E-42DD-BBAC-36F246B868B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bomb Numbers", "05. Bomb Numbers\05. Bomb Numbers.csproj", "{5283C06B-EAE9-4B66-9660-A974E2DED728}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{978B99A5-8B1E-42DD-BBAC-36F246B868B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{978B99A5-8B1E-42DD-BBAC-36F246B868B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{978B99A5-8B1E-42DD-BBAC-36F246B868B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5283C06B-EAE9-4B66-9660-A974E2DED728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5283C06B-EAE9-4B66-9660-A974E2DED728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5283C06B-EAE9-4B66-9660-A974E2DED728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5283C06B-EAE9-4B66-9660-A974E2DED728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

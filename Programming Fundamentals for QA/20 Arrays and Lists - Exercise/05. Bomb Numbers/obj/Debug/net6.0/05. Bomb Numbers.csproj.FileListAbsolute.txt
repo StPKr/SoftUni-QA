@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\refint\05. Bomb Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\ref\05. Bomb Numbers.dll
