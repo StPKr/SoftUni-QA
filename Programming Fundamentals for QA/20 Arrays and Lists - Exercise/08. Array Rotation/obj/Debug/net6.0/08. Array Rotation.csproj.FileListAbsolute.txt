@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\refint\08. Array Rotation.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\ref\08. Array Rotation.dll

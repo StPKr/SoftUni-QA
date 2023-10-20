@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\refint\06. Cards Game.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\ref\06. Cards Game.dll
