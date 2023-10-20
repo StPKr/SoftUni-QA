@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\refint\10. Top Integers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\20 Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\ref\10. Top Integers.dll

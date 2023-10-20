@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10. Top Integers/1.0.0": {
+        "runtime": {
+          "10. Top Integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10. Top Integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

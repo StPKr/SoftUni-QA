@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Array Rotation", "08. A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Max Sequence of Equal Elements", "09. Max Sequence of Equal Elements\09. Max Sequence of Equal Elements.csproj", "{DD3D4D83-85B8-41FF-A3D5-E2A99FFB4C94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Integers", "10. Top Integers\10. Top Integers.csproj", "{43231378-976B-4E95-B8B0-1EE22B4872A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DD3D4D83-85B8-41FF-A3D5-E2A99FFB4C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD3D4D83-85B8-41FF-A3D5-E2A99FFB4C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD3D4D83-85B8-41FF-A3D5-E2A99FFB4C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43231378-976B-4E95-B8B0-1EE22B4872A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43231378-976B-4E95-B8B0-1EE22B4872A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43231378-976B-4E95-B8B0-1EE22B4872A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43231378-976B-4E95-B8B0-1EE22B4872A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
