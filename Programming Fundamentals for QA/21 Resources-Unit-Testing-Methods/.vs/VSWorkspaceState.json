@@ -4,6 +4,6 @@
     "\\TestApp",
     "\\TestApp.UnitTests"
   ],
-  "SelectedNode": "\\TestApp\\Factorial.cs",
+  "SelectedNode": "\\TestApp.UnitTests\\CalculateTests.cs",
   "PreviewInSolutionExplorer": false
 }
