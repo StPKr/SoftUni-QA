@@ -13,6 +13,7 @@ public class MaxNumberTests
         List<int>? nullList = null;
 
         // Act & Assert
+        Assert.That(() => MaxNumber.FindMax(nullList), Throws.ArgumentException);
     }
 
     [Test]
@@ -22,35 +23,67 @@ public class MaxNumberTests
         List<int> emptyList = new();
 
         // Act & Assert
+        Assert.That(() => MaxNumber.FindMax(emptyList), Throws.ArgumentException);
+
     }
 
     [Test]
     public void Test_FindMax_InputHasOneElement_ShouldReturnTheElement()
     {
-        // TODO: finish test
+        // Arrange
+        List<int> list = new() { 42 };
+        // Act
+        int result = MaxNumber.FindMax(list);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(42));
     }
 
     [Test]
     public void Test_FindMax_InputHasPositiveIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        // Arrange
+        List<int> list = new() { 12, 42, 38 };
+        // Act
+        int result = MaxNumber.FindMax(list);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(42));
     }
 
     [Test]
     public void Test_FindMax_InputHasNegativeIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        // Arrange
+        List<int> list = new() { -12, -42, -38 };
+        // Act
+        int result = MaxNumber.FindMax(list);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(-12));
     }
 
     [Test]
     public void Test_FindMax_InputHasMixedIntegers_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        // Arrange
+        List<int> list = new() { 12, -42, -38 };
+        // Act
+        int result = MaxNumber.FindMax(list);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(12));
     }
 
     [Test]
     public void Test_FindMax_InputHasDuplicateMaxValue_ShouldReturnMaximum()
     {
-        // TODO: finish test
+        // Arrange
+        List<int> list = new() { 12, -42, -38, 12, 8 };
+        // Act
+        int result = MaxNumber.FindMax(list);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(12));
     }
 }
