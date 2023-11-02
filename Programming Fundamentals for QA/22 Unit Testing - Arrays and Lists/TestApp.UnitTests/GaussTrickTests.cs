@@ -24,12 +24,12 @@ public class GaussTrickTests
     public void Test_SumPairs_InputHasSingleElement_ShouldReturnSameElement()
     {
         // Arrange
-
+        List<int> list = new() { 5 };
         // Act
-        List<int> result;
+        List<int> result = GaussTrick.SumPairs(list);
 
         // Assert
-        //CollectionAssert.AreEqual(list, result);
+        CollectionAssert.AreEqual(list, result);
     }
 
     // TODO: finish the test
@@ -37,28 +37,51 @@ public class GaussTrickTests
     public void Test_SumPairs_InputHasEvenCountElements_ShouldReturnSumPairs()
     {
         // Arrange
-
+        List<int> list = new() { 1, 2, 3, 4 };
         // Act
-        //List<int> result = GaussTrick.SumPairs(list);
+        List<int> result = GaussTrick.SumPairs(list);
 
         // Assert
+        /*List<int> assertResult = new List<int>() { 5, 5 };
+        CollectionAssert.AreEqual(result, assertResult); - alternative */
+
+        CollectionAssert.AreEqual(result, new List<int>() { 5, 5 });
+
     }
 
     [Test]
     public void Test_SumPairs_InputHasOddCountElements_ShouldReturnWithMiddleElement()
     {
-        // TODO: finish the test
+        // Arrange
+        List<int> list = new() { 1, 2, 3, 4, 5 };
+        // Act
+        List<int> result = GaussTrick.SumPairs(list);
+
+        // Assert
+        CollectionAssert.AreEqual(result, new List<int>() { 6, 6, 3 });
     }
 
     [Test]
     public void Test_SumPairs_InputHasLargeEvenCountElements_ShouldReturnSumPairs()
     {
-        // TODO: finish the test
+        // Arrange
+        List<int> list = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        // Act
+        List<int> result = GaussTrick.SumPairs(list);
+
+        // Assert
+        CollectionAssert.AreEqual(result, new List<int>() { 11, 11, 11, 11, 11});
     }
 
     [Test]
     public void Test_SumPairs_InputHasLargeOddCountElements_ShouldReturnWithMiddleElement()
     {
-        // TODO: finish the test
+        // Arrange
+        List<int> list = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
+        // Act
+        List<int> result = GaussTrick.SumPairs(list);
+
+        // Assert
+        CollectionAssert.AreEqual(result, new List<int>() { 12, 12, 12, 12, 12, 6 });
     }
 }
