@@ -14,7 +14,7 @@ public class AverageTests
         int[] emptyArray = Array.Empty<int>();
 
         // Act & Assert
-       
+        Assert.That(() => Average.CalculateAverage(emptyArray), Throws.ArgumentException);
     }
 
     // TODO: finish the test
@@ -25,27 +25,39 @@ public class AverageTests
         int[] array = { 42 };
 
         // Act
-        double result;
+        double result = Average.CalculateAverage(array);
 
         // Assert
-        //Assert.That(result, Is.EqualTo(42));
+        Assert.That(result, Is.EqualTo(42));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasPositiveIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] evenArray = new int[4] { 2, 4, 8, 6 };
+
+        double result = Average.CalculateAverage(evenArray);
+
+        Assert.That(result, Is.EqualTo(5));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasNegativeIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] evenArray = new int[4] { -2, -4, -8, -6 };
+
+        double result = Average.CalculateAverage(evenArray);
+
+        Assert.That(result, Is.EqualTo(-5));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasMixedIntegers_ShouldReturnCorrectAverage()
     {
-        // TODO: finish the test
+        int[] evenArray = new int[4] { 2, -4, -8, 6 };
+
+        double result = Average.CalculateAverage(evenArray);
+
+        Assert.That(result, Is.EqualTo(-1));
     }
 }

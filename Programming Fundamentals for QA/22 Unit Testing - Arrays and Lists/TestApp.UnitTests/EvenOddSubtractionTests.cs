@@ -24,23 +24,35 @@ public class EvenOddSubtractionTests
     public void Test_FindDifference_InputHasOnlyEvenNumbers_ShouldReturnEvenSum()
     {
         // Arrange
-
+        int[] evenArray = new int[4] { 2, 4, 8, 6 };
         // Act
-        int result;
+        int result = EvenOddSubtraction.FindDifference(evenArray);
 
         // Assert
-        //Assert.That(result, Is.EqualTo(20));
+        Assert.That(result, Is.EqualTo(20));
     }
 
     [Test]
     public void Test_FindDifference_InputHasOnlyOddNumbers_ShouldReturnNegativeOddSum()
     {
-        // TODO: finish the test
+        // Arrange
+        int[] evenArray = new int[4] { 3, 7, 5, 5 };
+        // Act
+        int result = EvenOddSubtraction.FindDifference(evenArray);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(20));
     }
 
     [Test]
     public void Test_FindDifference_InputHasMixedNumbers_ShouldReturnDifference()
     {
-        // TODO: finish the test
+        // Arrange
+        int[] evenArray = new int[4] { 2, 3, 4, 1 };
+        // Act
+        int result = EvenOddSubtraction.FindDifference(evenArray);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(2));
     }
 }
