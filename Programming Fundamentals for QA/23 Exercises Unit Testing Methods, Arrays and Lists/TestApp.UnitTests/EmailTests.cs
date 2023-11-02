@@ -12,19 +12,37 @@ public class EmailTests
         string validEmail = "test@example.com";
 
         // Act
-
+        bool result = Email.IsValidEmail(validEmail);
         // Assert
+
+        Assert.IsTrue(result);
+        //Assert.That(result, Is.True);
+
     }
 
     [Test]
     public void Test_IsValidEmail_InvalidEmail()
     {
-        // TODO: finish test
+        // Arrange
+        string validEmail = "test.example.com";
+
+        // Act
+        bool result = Email.IsValidEmail(validEmail);
+        // Assert
+
+        Assert.IsFalse(result);
     }
 
     [Test]
     public void Test_IsValidEmail_NullInput()
     {
-        // TODO: finish test
+        // Arrange
+        string? validEmail = null;
+
+        // Act
+        bool result = Email.IsValidEmail(validEmail);
+        // Assert
+
+        Assert.IsFalse(result);
     }
 }
