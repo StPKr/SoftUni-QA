@@ -1,0 +1,11 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\22 Unit Testing - Arrays and Lists\TestApp\obj\Debug\net6.0\ref\TestApp.dll
