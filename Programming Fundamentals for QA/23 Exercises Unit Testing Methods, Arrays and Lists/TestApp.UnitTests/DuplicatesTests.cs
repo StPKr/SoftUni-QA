@@ -15,7 +15,11 @@ public class DuplicatesTests
 
         // Act
 
+        int[] result = Duplicates.RemoveDuplicates(numbers);
+
         // Assert
+
+        Assert.That(result, Is.Empty);
     }
 
     // TODO: finish test
@@ -23,22 +27,38 @@ public class DuplicatesTests
     public void Test_RemoveDuplicates_NoDuplicates_ReturnsOriginalArray()
     {
         // Arrange
+        int[] numbers = new int[] {1, 2, 3};
 
         // Act
 
+        int[] result = Duplicates.RemoveDuplicates(numbers);
         // Assert
-        //Assert.That(result, Is.EqualTo(numbers));
+        Assert.That(result, Is.EqualTo(numbers));
     }
 
     [Test]
     public void Test_RemoveDuplicates_SomeDuplicates_ReturnsUniqueArray()
     {
-        // TODO: finish test
+        // Arrange
+        int[] numbers = new int[] { 1, 2, 3, 2, 5 };
+
+        // Act
+
+        int[] result = Duplicates.RemoveDuplicates(numbers);
+        // Assert
+        Assert.That(result, Is.EqualTo(new[] { 1, 2, 3, 5 }));
     }
 
     [Test]
     public void Test_RemoveDuplicates_AllDuplicates_ReturnsSingleElementArray()
     {
-        // TODO: finish test
+        // Arrange
+        int[] numbers = new int[] { 1, 2, 3, 2, 5, 1, 3 };
+
+        // Act
+
+        int[] result = Duplicates.RemoveDuplicates(numbers);
+        // Assert
+        Assert.That(result, Is.EqualTo(new[] { 1, 2, 3, 5 }));
     }
 }
