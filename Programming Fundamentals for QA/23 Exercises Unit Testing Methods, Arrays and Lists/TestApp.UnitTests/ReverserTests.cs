@@ -24,22 +24,35 @@ public class ReverserTests
     public void Test_ReverseStrings_WithSingleString_ReturnsReversedString()
     {
         // Arrange
+        string[] inputArray = new string[] { "Hello" };
 
         // Act
-
+        string[] result = Reverser.ReverseStrings(inputArray);
         // Assert
-        //Assert.That(result, Is.EqualTo(new[] { "olleH" }));
+        Assert.That(result, Is.EqualTo(new[] { "olleH" }));
     }
 
     [Test]
     public void Test_ReverseStrings_WithMultipleStrings_ReturnsReversedStrings()
     {
-        // TODO: finish test
+        // Arrange
+        string[] inputArray = new string[] { "Hello", "Test" };
+
+        // Act
+        string[] result = Reverser.ReverseStrings(inputArray);
+        // Assert
+        Assert.That(result, Is.EqualTo(new[] { "olleH", "tseT" }));
     }
 
     [Test]
     public void Test_ReverseStrings_WithSpecialCharacters_ReturnsReversedSpecialCharacters()
     {
-        // TODO: finish test
+        // Arrange
+        string[] inputArray = new string[] { "Hello", "Test", "@l@rm" };
+
+        // Act
+        string[] result = Reverser.ReverseStrings(inputArray);
+        // Assert
+        Assert.That(result, Is.EqualTo(new[] { "olleH", "tseT", "mr@l@" }));
     }
 }
