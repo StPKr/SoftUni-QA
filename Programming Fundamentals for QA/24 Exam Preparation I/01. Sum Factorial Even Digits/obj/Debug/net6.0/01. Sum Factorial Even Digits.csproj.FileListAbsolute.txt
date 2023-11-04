@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\refint\01. Sum Factorial Even Digits.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\01. Sum Factorial Even Digits\obj\Debug\net6.0\ref\01. Sum Factorial Even Digits.dll
