@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\bin\Debug\net6.0\02. Middle Elements.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\bin\Debug\net6.0\02. Middle Elements.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\bin\Debug\net6.0\02. Middle Elements.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\bin\Debug\net6.0\02. Middle Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\bin\Debug\net6.0\02. Middle Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\refint\02. Middle Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\02. Middle Elements.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\24 Exam Preparation I\02. Middle Elements\obj\Debug\net6.0\ref\02. Middle Elements.dll
