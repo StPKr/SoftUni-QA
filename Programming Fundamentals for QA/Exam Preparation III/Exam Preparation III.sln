@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. English Name of Each Digit", "01. English Name of Each Digit\01. English Name of Each Digit.csproj", "{E2F8CB69-C173-49C8-BA9D-FA4AC61CF62B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Average Last Elements", "02. Average Last Elements\02. Average Last Elements.csproj", "{461A78D3-B5DF-4E5A-8C16-21046B9DB27A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2F8CB69-C173-49C8-BA9D-FA4AC61CF62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F8CB69-C173-49C8-BA9D-FA4AC61CF62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F8CB69-C173-49C8-BA9D-FA4AC61CF62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461A78D3-B5DF-4E5A-8C16-21046B9DB27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A78D3-B5DF-4E5A-8C16-21046B9DB27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A78D3-B5DF-4E5A-8C16-21046B9DB27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A78D3-B5DF-4E5A-8C16-21046B9DB27A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

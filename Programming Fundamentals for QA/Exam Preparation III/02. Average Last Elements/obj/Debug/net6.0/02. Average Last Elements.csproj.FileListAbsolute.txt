@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\refint\02. Average Last Elements.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\02. Average Last Elements\obj\Debug\net6.0\ref\02. Average Last Elements.dll
