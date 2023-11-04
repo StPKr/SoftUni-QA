@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\refint\01. English Name of Each Digit.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\Exam Preparation III\01. English Name of Each Digit\obj\Debug\net6.0\ref\01. English Name of Each Digit.dll
