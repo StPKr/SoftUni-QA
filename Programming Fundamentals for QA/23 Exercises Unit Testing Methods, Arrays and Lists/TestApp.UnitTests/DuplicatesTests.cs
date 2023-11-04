@@ -46,7 +46,7 @@ public class DuplicatesTests
 
         int[] result = Duplicates.RemoveDuplicates(numbers);
         // Assert
-        Assert.That(result, Is.EqualTo(new[] { 1, 2, 3, 5 }));
+        Assert.That(result, Is.EqualTo(new int[] { 1, 2, 3, 5 }));
     }
 
     [Test]
@@ -59,6 +59,6 @@ public class DuplicatesTests
 
         int[] result = Duplicates.RemoveDuplicates(numbers);
         // Assert
-        Assert.That(result, Is.EqualTo(new[] { 1, 2, 3, 5 }));
+        Assert.That(result, Is.EqualTo(new int[] { 1, 2, 3, 5 }));
     }
 }

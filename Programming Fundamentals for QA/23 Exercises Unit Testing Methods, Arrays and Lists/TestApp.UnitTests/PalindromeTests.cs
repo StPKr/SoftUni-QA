@@ -50,7 +50,7 @@ public class PalindromeTests
         // Act
         bool result = Palindrome.IsPalindrome(words);
         // Assert
-        Assert.IsTrue(result);
+        Assert.IsFalse(result);
     }
 
     [Test]
