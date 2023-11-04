@@ -11,11 +11,11 @@ public class PalindromeTests
     public void Test_IsPalindrome_ValidPalindrome_ReturnsTrue()
     {
         // Arrange
-
+        List<string> words = new List<string>() { "ada", "dood" };
         // Act
-
+        bool result = Palindrome.IsPalindrome(words);
         // Assert
-        //Assert.IsTrue(result);
+        Assert.IsTrue(result);
     }
 
     // TODO: finish test
@@ -26,25 +26,41 @@ public class PalindromeTests
         List<string> words = new();
 
         // Act
-
+        bool result = Palindrome.IsPalindrome(words);
         // Assert
+        Assert.IsTrue(result);
     }
 
     [Test]
     public void Test_IsPalindrome_SingleWord_ReturnsTrue()
     {
-        // TODO: finish test
+        // Arrange
+        List<string> words = new List<string>() { "dood" };
+        // Act
+        bool result = Palindrome.IsPalindrome(words);
+        // Assert
+        Assert.IsTrue(result);
     }
 
     [Test]
     public void Test_IsPalindrome_NonPalindrome_ReturnsFalse()
     {
-        // TODO: finish test
+        // Arrange
+        List<string> words = new List<string>() { "adsa", "dsood" };
+        // Act
+        bool result = Palindrome.IsPalindrome(words);
+        // Assert
+        Assert.IsTrue(result);
     }
 
     [Test]
     public void Test_IsPalindrome_MixedCasePalindrome_ReturnsTrue()
     {
-        // TODO: finish test
+        // Arrange
+        List<string> words = new List<string>() { "aDa", "dOod" };
+        // Act
+        bool result = Palindrome.IsPalindrome(words);
+        // Assert
+        Assert.IsTrue(result);
     }
 }
