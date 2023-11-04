@@ -24,7 +24,7 @@ public class FakeTests
 
         char[] result = Fake.RemoveStringNumbers(input);
 
-        Assert.That(result, Is.EqualTo(new[] { 'a', 'b', 'c' }));
+        Assert.That(result, Is.EqualTo(new char[] { 'a', 'b', 'c' }));
     }
 
     [Test]
@@ -34,16 +34,16 @@ public class FakeTests
 
         char[] result = Fake.RemoveStringNumbers(input);
 
-        Assert.That(result, Is.EqualTo(new[] { 'a', 'b', 'c' }));
+        Assert.That(result, Is.EqualTo(new char[] { 'a', 'b', 'c' }));
     }
 
     [Test]
     public void Test_RemoveStringNumbers_EmptyArray_ReturnsEmptyArray()
     {
-        char[] input = new char[] { };
+        char[] input = Array.Empty<char>();
 
         char[] result = Fake.RemoveStringNumbers(input);
 
-        Assert.That(result, Is.EqualTo(new char[] { }));
+        Assert.That(result, Is.Empty);
     }
 }
