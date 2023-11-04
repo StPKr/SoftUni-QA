@@ -27,20 +27,20 @@ public class PatternTests
 
         int[] result = Pattern.SortInPattern(numbers);
         // Assert
-        Assert.That(result, Is.EqualTo(new[] {1,3,2}));
+        Assert.That(result, Is.EqualTo(new int[] {1,3,2}));
     }
 
     [Test]
     public void Test_SortInPattern_EmptyArray_ReturnsEmptyArray()
     {
         // Arrange
-        int[] numbers = new int[] {};
+        int[] numbers = Array.Empty<int>();
 
         // Act
 
         int[] result = Pattern.SortInPattern(numbers);
         // Assert
-        Assert.That(result, Is.EqualTo(new int[] { }));
+        Assert.That(result, Is.Empty);
     }
 
     [Test]
@@ -53,6 +53,6 @@ public class PatternTests
 
         int[] result = Pattern.SortInPattern(numbers);
         // Assert
-        Assert.That(result, Is.EqualTo(new[] { 3 }));
+        Assert.That(result, Is.EqualTo(new int[] { 3 }));
     }
 }
