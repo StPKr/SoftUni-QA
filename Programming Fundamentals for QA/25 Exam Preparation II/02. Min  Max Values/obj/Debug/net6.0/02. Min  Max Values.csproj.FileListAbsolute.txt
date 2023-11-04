@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\bin\Debug\net6.0\02. Min  Max Values.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\bin\Debug\net6.0\02. Min  Max Values.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\bin\Debug\net6.0\02. Min  Max Values.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\bin\Debug\net6.0\02. Min  Max Values.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\bin\Debug\net6.0\02. Min  Max Values.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\refint\02. Min  Max Values.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\02. Min  Max Values.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\25 Exam Preparation II\02. Min  Max Values\obj\Debug\net6.0\ref\02. Min  Max Values.dll
