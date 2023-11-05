@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\1\\1.csproj",
-      "projectName": "1",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\1\\1.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\1\\01. Calculate Average Grade.csproj",
+      "projectName": "01. Calculate Average Grade",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\1\\01. Calculate Average Grade.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\1\\obj\\",
       "projectStyle": "PackageReference",

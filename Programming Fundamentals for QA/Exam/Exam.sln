@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{6E675401-22F6-4A72-A466-3DD7CF466B76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Calculate Average Grade", "1\01. Calculate Average Grade.csproj", "{6E675401-22F6-4A72-A466-3DD7CF466B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2", "ConsoleApp1\2.csproj", "{418E62F6-7684-4E6D-A15F-9F2951AC4866}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotations", "ConsoleApp1\02. Rotations.csproj", "{418E62F6-7684-4E6D-A15F-9F2951AC4866}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\ConsoleApp1\\2.csproj",
-      "projectName": "2",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\ConsoleApp1\\2.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\ConsoleApp1\\02. Rotations.csproj",
+      "projectName": "02. Rotations",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\ConsoleApp1\\02. Rotations.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Fundamentals for QA\\Exam\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
