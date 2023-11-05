@@ -48,7 +48,7 @@ public class BalancedBracketsTests
     [Test]
     public void Test_IsBalanced_NoClosingBrackets_ShouldReturnFalse()
     {
-        string[] input = new string[] { ")", "(" };
+        string[] input = new string[] { "(", "(" };
 
         bool output = BalancedBrackets.IsBalanced(input);
 
