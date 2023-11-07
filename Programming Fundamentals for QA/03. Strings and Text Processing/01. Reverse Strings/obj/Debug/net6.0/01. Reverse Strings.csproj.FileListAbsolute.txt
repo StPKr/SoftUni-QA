@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\refint\01. Reverse Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\ref\01. Reverse Strings.dll
