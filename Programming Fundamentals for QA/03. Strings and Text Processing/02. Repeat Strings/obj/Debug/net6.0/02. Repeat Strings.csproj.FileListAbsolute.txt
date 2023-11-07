@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\03. Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll
