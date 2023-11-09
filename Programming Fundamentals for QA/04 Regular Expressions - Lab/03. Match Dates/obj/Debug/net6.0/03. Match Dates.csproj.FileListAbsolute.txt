@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\bin\Debug\net6.0\03. Match Dates.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\bin\Debug\net6.0\03. Match Dates.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\bin\Debug\net6.0\03. Match Dates.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\bin\Debug\net6.0\03. Match Dates.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\bin\Debug\net6.0\03. Match Dates.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\refint\03. Match Dates.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\03. Match Dates.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\04 Regular Expressions - Lab\03. Match Dates\obj\Debug\net6.0\ref\03. Match Dates.dll
