@@ -1,11 +1,8 @@
-﻿using System.IO.Pipes;
-using System.Security.AccessControl;
+﻿int[] numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 
-string[] numbers = Console.ReadLine().Split(" ");
+SortedDictionary<int, int> numberFrequency = new();
 
-Dictionary<string, int> numberFrequency = new();
-
-foreach (string number in numbers)
+foreach (int number in numbers)
 {
     if (numberFrequency.ContainsKey(number))
     {
@@ -16,7 +13,7 @@ foreach (string number in numbers)
         numberFrequency.Add(number, 1);
     }
 }
-foreach (KeyValuePair<string, int> pair in numberFrequency)
+foreach (KeyValuePair<int, int> pair in numberFrequency)
 {
     Console.WriteLine($"{pair.Key} -> {pair.Value}");
 }
