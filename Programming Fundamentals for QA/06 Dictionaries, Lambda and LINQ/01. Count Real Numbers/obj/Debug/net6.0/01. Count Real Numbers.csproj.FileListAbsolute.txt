@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\refint\01. Count Real Numbers.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\01. Count Real Numbers\obj\Debug\net6.0\ref\01. Count Real Numbers.dll

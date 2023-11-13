@@ -11,12 +11,16 @@ Console.WriteLine(value);
 phoneBook["Ivan Petrov"] = "+49 1219 0302";
 Console.WriteLine(phoneBook["Ivan Petrov"]);
 
-var fruits = new SortedDictionary<string, double>();
+SortedDictionary<string, double> fruits = new SortedDictionary<string, double>()
+{
+    {"strawberry", 22.2 },
+    {"cherry", 23.2 }
+};
 fruits["kiwi"] = 4.50;
 fruits["orange"] = 2.50;
 fruits["banana"] = 2.20;
 
-foreach (var item in fruits)
+foreach (var item in fruits) // instead of var we can use KeyValuePair<string, double>
 {
     Console.WriteLine($"{item.Key} - {item.Value}");
 }
