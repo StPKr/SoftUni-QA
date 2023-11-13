@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\bin\Debug\net6.0\00 Demos.exe
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\bin\Debug\net6.0\00 Demos.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\bin\Debug\net6.0\00 Demos.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\bin\Debug\net6.0\00 Demos.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\bin\Debug\net6.0\00 Demos.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\refint\00 Demos.dll
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.pdb
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\00 Demos.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Fundamentals for QA\06 Dictionaries, Lambda and LINQ\00 Demos\obj\Debug\net6.0\ref\00 Demos.dll
