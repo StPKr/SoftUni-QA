@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 Demos", "00 Demos\00 Dem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Occurrences", "02. Odd Occurrences\02. Odd Occurrences.csproj", "{DB1897E0-32D6-4A9D-ADFB-ABA84894BEC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms", "03. Word Synonyms\03. Word Synonyms.csproj", "{CB336CB1-754E-42C9-92C5-9AF7F962E3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Word Filter", "04. Word Filter\04. Word Filter.csproj", "{04EFA4E8-514B-4D02-A30F-1BCAA7F7C5D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{DB1897E0-32D6-4A9D-ADFB-ABA84894BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1897E0-32D6-4A9D-ADFB-ABA84894BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1897E0-32D6-4A9D-ADFB-ABA84894BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB336CB1-754E-42C9-92C5-9AF7F962E3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB336CB1-754E-42C9-92C5-9AF7F962E3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB336CB1-754E-42C9-92C5-9AF7F962E3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB336CB1-754E-42C9-92C5-9AF7F962E3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EFA4E8-514B-4D02-A30F-1BCAA7F7C5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EFA4E8-514B-4D02-A30F-1BCAA7F7C5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EFA4E8-514B-4D02-A30F-1BCAA7F7C5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EFA4E8-514B-4D02-A30F-1BCAA7F7C5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

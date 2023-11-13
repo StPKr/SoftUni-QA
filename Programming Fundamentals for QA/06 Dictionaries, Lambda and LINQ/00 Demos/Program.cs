@@ -1,4 +1,4 @@
-﻿List<string> exampleList = new();
+﻿/*List<string> exampleList = new();
 Dictionary<string, string> phoneBook = new();
 phoneBook.Add("Ivan Petrov", "+389 888 123 456");
 phoneBook.Add("Jon Smith", "+44 20102 330");
@@ -23,4 +23,15 @@ fruits["banana"] = 2.20;
 foreach (var item in fruits) // instead of var we can use KeyValuePair<string, double>
 {
     Console.WriteLine($"{item.Key} - {item.Value}");
-}
+}*/
+
+List<int> testListInts = new() { 1, 2, 3, 4, 5, 6 };
+List<string> testListStrings = new() { "hello", "world", "Maybe?", "a" };
+
+Console.WriteLine(testListInts.Min());
+Console.WriteLine(testListStrings.Min());
+
+Console.WriteLine(testListInts.Max());
+Console.WriteLine(testListInts.Sum());
+Console.WriteLine(testListInts.Average());
+
