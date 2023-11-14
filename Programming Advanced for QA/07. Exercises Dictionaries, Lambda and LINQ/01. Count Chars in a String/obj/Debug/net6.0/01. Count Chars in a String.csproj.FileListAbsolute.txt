@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\refint\01. Count Chars in a String.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\07. Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\ref\01. Count Chars in a String.dll
