@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\bin\Debug\net6.0\00. Demo1.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\bin\Debug\net6.0\00. Demo1.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\bin\Debug\net6.0\00. Demo1.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\bin\Debug\net6.0\00. Demo1.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\bin\Debug\net6.0\00. Demo1.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\refint\00. Demo1.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\00. Demo1.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\00. Demo1\obj\Debug\net6.0\ref\00. Demo1.dll
