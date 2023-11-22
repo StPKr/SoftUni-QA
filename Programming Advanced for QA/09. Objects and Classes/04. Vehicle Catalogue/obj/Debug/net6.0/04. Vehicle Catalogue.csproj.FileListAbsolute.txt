@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\bin\Debug\net6.0\04. Vehicle Catalogue.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\bin\Debug\net6.0\04. Vehicle Catalogue.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\bin\Debug\net6.0\04. Vehicle Catalogue.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\bin\Debug\net6.0\04. Vehicle Catalogue.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\bin\Debug\net6.0\04. Vehicle Catalogue.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\refint\04. Vehicle Catalogue.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\04. Vehicle Catalogue.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\09. Objects and Classes\04. Vehicle Catalogue\obj\Debug\net6.0\ref\04. Vehicle Catalogue.dll
