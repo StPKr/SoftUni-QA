@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\10. Defining Classes - Lab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
