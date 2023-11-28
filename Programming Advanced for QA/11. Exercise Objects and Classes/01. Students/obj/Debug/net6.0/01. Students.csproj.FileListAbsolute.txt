@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\bin\Debug\net6.0\01. Students.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\refint\01. Students.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\01. Students.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\01. Students\obj\Debug\net6.0\ref\01. Students.dll
