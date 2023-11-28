@@ -17,5 +17,5 @@ students = students.OrderByDescending(s => s.Grade).ToList();
 
 foreach (Student student in students)
 {
-    Console.WriteLine($"{student.FirstName} {student.LastName}: {student.Grade}");
+    Console.WriteLine($"{student.FirstName} {student.LastName}: {student.Grade:F2}");
 }

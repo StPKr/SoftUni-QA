@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\bin\Debug\net6.0\03. Teamwork Projects.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\bin\Debug\net6.0\03. Teamwork Projects.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\bin\Debug\net6.0\03. Teamwork Projects.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\bin\Debug\net6.0\03. Teamwork Projects.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\bin\Debug\net6.0\03. Teamwork Projects.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\refint\03. Teamwork Projects.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\03. Teamwork Projects.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\11. Exercise Objects and Classes\03. Teamwork Projects\obj\Debug\net6.0\ref\03. Teamwork Projects.dll
