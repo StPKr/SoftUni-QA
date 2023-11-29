@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-int countTeams = int.Parse(Console.ReadLine());
+﻿int countTeams = int.Parse(Console.ReadLine());
 Dictionary<string, Team> teams = new Dictionary<string, Team>();
 List<string> creators = new List<string>();
 
@@ -10,11 +8,9 @@ for (int i = 1; i <= countTeams; i++)
 
     string creator = teamData.Split("-")[0];
     string teamName = teamData.Split("-")[1];
-    creators.Add(creator);
-
     if (teams.ContainsKey(teamName))
     {
-        Console.WriteLine($"Team {teamName} was akready created!");
+        Console.WriteLine($"Team {teamName} was already created!");
     }
     else if (creators.Contains(creator))
     {
@@ -25,7 +21,9 @@ for (int i = 1; i <= countTeams; i++)
         Team team = new Team(teamName, creator);
         Console.WriteLine($"Team {teamName} has been created by {creator}!");
         teams.Add(teamName, team);
+        creators.Add(creator);
     }
+    
 }
 
 string command = Console.ReadLine();
@@ -39,7 +37,7 @@ while (command != "end of assignment")
     {
         Console.WriteLine($"Team {teamJoining} does not exist!");
     }
-    else if (creators.Contains(memberJoin) || teams[teamJoining].Members.Contains(memberJoin))
+    else if (creators.Contains(memberJoin) || teams[teamJoining].Creator == memberJoin || teams[teamJoining].Members.Contains(memberJoin))
     {
         Console.WriteLine($"Member {memberJoin} cannot join team {teamJoining}!");
     }
@@ -62,7 +60,7 @@ foreach (var team in teams.Where(team => team.Value.Members.Count > 0)
     }
 }
 Console.WriteLine("Teams to disband: ");
-foreach (var team in teams.Where(team => team.Value.Members.Count == 0))
+foreach (var team in teams.Where(team => team.Value.Members.Count == 0).OrderBy(team => team.Key))
 {
     Console.WriteLine(team.Key);
 }
