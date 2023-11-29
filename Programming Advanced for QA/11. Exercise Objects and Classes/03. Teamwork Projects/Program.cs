@@ -2,6 +2,7 @@
 
 int countTeams = int.Parse(Console.ReadLine());
 Dictionary<string, Team> teams = new Dictionary<string, Team>();
+List<string> creators = new List<string>();
 
 for (int i = 1; i <= countTeams; i++)
 {
@@ -9,10 +10,22 @@ for (int i = 1; i <= countTeams; i++)
 
     string creator = teamData.Split("-")[0];
     string teamName = teamData.Split("-")[1];
+    creators.Add(creator);
 
-    Team team = new Team(teamName, creator);
-    Console.WriteLine($"Team {teamName} has been created by {creator}!");
-    teams.Add(teamName, team);
+    if (teams.ContainsKey(teamName))
+    {
+        Console.WriteLine($"Team {teamName} was akready created!");
+    }
+    else if (creators.Contains(creator))
+    {
+        Console.WriteLine($"{creator} cannot create another team!");
+    }
+    else
+    {
+        Team team = new Team(teamName, creator);
+        Console.WriteLine($"Team {teamName} has been created by {creator}!");
+        teams.Add(teamName, team);
+    }
 }
 
 string command = Console.ReadLine();
@@ -22,8 +35,18 @@ while (command != "end of assignment")
     string memberJoin = command.Split("->")[0];
     string teamJoining = command.Split("->")[1];
 
-    teams[teamJoining].Members.Add(memberJoin);
-
+    if (!teams.ContainsKey(teamJoining))
+    {
+        Console.WriteLine($"Team {teamJoining} does not exist!");
+    }
+    else if (creators.Contains(memberJoin) || teams[teamJoining].Members.Contains(memberJoin))
+    {
+        Console.WriteLine($"Member {memberJoin} cannot join team {teamJoining}!");
+    }
+    else
+    {
+        teams[teamJoining].Members.Add(memberJoin);
+    }
     command = Console.ReadLine();
 }
 
