@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Squa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{008A0E60-B39D-493B-A801-E84B1CFDA518}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum of Integers", "03. Sum of Integers\03. Sum of Integers.csproj", "{CCBEB4A6-B7DA-4172-BB9F-812C877EF539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{008A0E60-B39D-493B-A801-E84B1CFDA518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{008A0E60-B39D-493B-A801-E84B1CFDA518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{008A0E60-B39D-493B-A801-E84B1CFDA518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBEB4A6-B7DA-4172-BB9F-812C877EF539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBEB4A6-B7DA-4172-BB9F-812C877EF539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBEB4A6-B7DA-4172-BB9F-812C877EF539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBEB4A6-B7DA-4172-BB9F-812C877EF539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
