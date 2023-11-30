@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\bin\Debug\net6.0\01. Square Root.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\bin\Debug\net6.0\01. Square Root.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\bin\Debug\net6.0\01. Square Root.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\bin\Debug\net6.0\01. Square Root.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\bin\Debug\net6.0\01. Square Root.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\refint\01. Square Root.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\01. Square Root.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\13. Exception Handling\01. Square Root\obj\Debug\net6.0\ref\01. Square Root.dll
