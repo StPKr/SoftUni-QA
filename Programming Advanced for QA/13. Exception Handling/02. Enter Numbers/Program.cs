@@ -2,7 +2,10 @@
 {
     int num = int.Parse(Console.ReadLine());
 
-    
+    if (num <= start || num >= end)
+    {
+        throw new ArgumentException();
+    }
     return num;
 }
 List<int> numbers = new List<int>();
