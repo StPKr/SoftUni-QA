@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. PersonInfo", "PersonInf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. BoxData", "BoxData\02. BoxData.csproj", "{203C1F3B-6B1F-4319-BEAD-1372B329E439}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Players", "Players\03. Players.csproj", "{6E4B6EC3-6A1B-4D81-B7BC-3798037C2A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Players", "Players\Players.csproj", "{6E4B6EC3-6A1B-4D81-B7BC-3798037C2A89}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Zoo", "Zoo\04. Zoo.csproj", "{997A1414-17F7-4186-A614-8980CB58E9F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "Zoo\Zoo.csproj", "{997A1414-17F7-4186-A614-8980CB58E9F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

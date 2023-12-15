@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Zoo\\04. Zoo.csproj",
-      "projectName": "04. Zoo",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Zoo\\04. Zoo.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Zoo\\Zoo.csproj",
+      "projectName": "Zoo",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Zoo\\Zoo.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Zoo\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\03. Players.csproj",
-      "projectName": "03. Players",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\03. Players.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\Players.csproj",
+      "projectName": "Players",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\Players.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\15-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\obj\\",
       "projectStyle": "PackageReference",

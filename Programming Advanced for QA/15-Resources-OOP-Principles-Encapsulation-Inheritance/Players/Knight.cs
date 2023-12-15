@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 03._Players
+namespace Players
 {
-    internal class Knight
-{
-}
+    public class Knight : Hero
+    {
+        public Knight(string username, int level) : base(username, level)
+        {
+        }
+    }
 }

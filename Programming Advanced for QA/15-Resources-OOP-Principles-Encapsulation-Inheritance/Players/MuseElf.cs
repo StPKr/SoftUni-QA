@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 03._Players
+namespace Players
 {
-    internal class MuseElf
-{
-}
+    public class MuseElf : Elf
+    {
+        public MuseElf(string username, int level) : base(username, level)
+        {
+        }
+    }
 }
