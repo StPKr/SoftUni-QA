@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\01. PersonInfo.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\01. PersonInfo.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\01. PersonInfo.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\01. PersonInfo.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\01. PersonInfo.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\refint\01. PersonInfo.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\01. PersonInfo.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\ref\01. PersonInfo.dll
