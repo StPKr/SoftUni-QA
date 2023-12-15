@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Cars
 {
-    internal interface IElectricCar
+    public interface IElectricCar
     {
+        public int Battery {  get; set; }
+
     }
 }
