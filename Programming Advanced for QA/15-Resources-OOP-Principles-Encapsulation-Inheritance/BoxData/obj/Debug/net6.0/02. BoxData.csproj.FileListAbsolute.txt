@@ -1,0 +1,14 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\02. BoxData.exe
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\02. BoxData.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\02. BoxData.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\02. BoxData.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\02. BoxData.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\refint\02. BoxData.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\02. BoxData.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\15-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\ref\02. BoxData.dll

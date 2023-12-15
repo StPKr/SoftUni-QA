@@ -8,7 +8,7 @@ double h = double.Parse(Console.ReadLine()!);
 
 try
 {
-    //Console.WriteLine(new Box(l, w, h));
+    Console.WriteLine(new Box(l, w, h));
 }
 catch (ArgumentException e)
 {
