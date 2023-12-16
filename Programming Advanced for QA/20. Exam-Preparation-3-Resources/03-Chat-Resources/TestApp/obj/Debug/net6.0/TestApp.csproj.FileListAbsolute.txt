@@ -1,0 +1,11 @@
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
