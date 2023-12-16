@@ -9,3 +9,14 @@ C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
 C:\Users\acheb\Documents\SoftUni\softuni-courses\qa-profession\QA-Programming\02.Programming-Advanced-for-QA\Week 6\18-Exam-Preparation-III\03-Chat\03-Chat-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\20. Exam-Preparation-3-Resources\03-Chat-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

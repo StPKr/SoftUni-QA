@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\acheb\\.nuget\\packages\\": {}
+    "C:\\Users\\Brum\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\20. Exam-Preparation-3-Resources\\03-Chat-Resources\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\TestApp.csproj",
-      "packagesPath": "C:\\Users\\acheb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\obj\\",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\20. Exam-Preparation-3-Resources\\03-Chat-Resources\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\20. Exam-Preparation-3-Resources\\03-Chat-Resources\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acheb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
