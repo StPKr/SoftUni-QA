@@ -1,0 +1,11 @@
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Programming\Github\SoftUni-QA\Programming Advanced for QA\19. Exam-Preparation-2-Resources\03-ToDo-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
