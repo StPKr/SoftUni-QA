@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\ExerciseOopHierarchy.csproj",
+      "projectUniqueName": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\ExerciseOopHierarchy.csproj",
       "projectName": "ExerciseOopHierarchy",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\ExerciseOopHierarchy.csproj",
+      "projectPath": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\ExerciseOopHierarchy.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\obj\\",
+      "outputPath": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\Programming Advanced for QA\\17-Resources-Implementing-OOP-Hierarchy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
