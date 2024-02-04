@@ -6,7 +6,7 @@ using LibroConsoleAPI.Repositories;
 public class BookManagerFixture : IDisposable
 {
     public TestLibroDbContext DbContext { get; private set; }
-    public IBookManager BookManager { get; private set; }
+    public BookManager BookManager { get; private set; }
 
     public BookManagerFixture()
     {

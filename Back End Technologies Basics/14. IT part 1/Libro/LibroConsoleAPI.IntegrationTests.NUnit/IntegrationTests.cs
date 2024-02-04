@@ -5,13 +5,14 @@ using LibroConsoleAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LibroConsoleAPI.IntegrationTests.NUnit
 {
-    public  class IntegrationTests
+    public class IntegrationTests
     {
         private TestLibroDbContext dbContext;
         private IBookManager bookManager;
@@ -52,6 +53,28 @@ namespace LibroConsoleAPI.IntegrationTests.NUnit
             Assert.NotNull(bookInDb);
             Assert.AreEqual("Test Book", bookInDb.Title);
             Assert.AreEqual("John Doe", bookInDb.Author);
+        }
+
+        [Test]
+        public async Task AddBookAsync_WhenPassOnvaliPages_ShouldThrowException()
+        {
+            // Arrange
+            var newBook = new Book
+            {
+                Title = "Test Book",
+                Author = "John Doe",
+                ISBN = "1234567890123",
+                YearPublished = 2021,
+                Genre = "Fiction",
+                Pages = -100,
+                Price = 19.99
+            };
+
+            // Act
+            var exception = Assert.ThrowsAsync<ValidationException>(() => bookManager.AddAsync(newBook));
+
+            // Assert
+            Assert.AreEqual("Book is invalid.", exception.Message);
         }
 
         public async Task AddBookAsync_TryToAddBookWithInvalidCredentials_ShouldThrowException()
