@@ -134,6 +134,28 @@
             Assert.Equal(updatedPopulation, updatedTown.Population);
         }
 
+       /* [Theory]
+        [InlineData(0)]
+        [InlineData(-1)]
+        public void UpdateTown_InvalidPopulation_ShouldThrowArguementException(int invalidPopulation)
+        {
+            // TODO: This test checks if the UpdateTown method correctly updates the population of a town.
+
+            // Arrange: 
+            var townName = "Plovdiv";
+            var initialPopulation = 1000;
+            var updatedPopulation = 2000;
+
+            _controller.AddTown(townName, initialPopulation);
+
+            // Act: 
+            var town = _controller.GetTownByName(townName);
+            var action = () => _controller.UpdateTown(town.Id, invalidPopulation);
+            // Assert: 
+            var exception = Assert.Throws<ArgumentException>(action);
+            Assert.Equal("Population must be a positive number.", exception.Message);
+        }*/
+
         [Fact]
         public void DeleteTown_ShouldDeleteTown()
         {
