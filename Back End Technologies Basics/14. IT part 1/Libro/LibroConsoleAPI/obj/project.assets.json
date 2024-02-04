@@ -2427,11 +2427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. Exercises Integration Testing - part 1\\LibroConsoleAPI-TestClassesCreated_MethodsNotImplemented\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+      "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. IT part 1\\Libro\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
       "projectName": "LibroConsoleAPI",
-      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. Exercises Integration Testing - part 1\\LibroConsoleAPI-TestClassesCreated_MethodsNotImplemented\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+      "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. IT part 1\\Libro\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
       "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. Exercises Integration Testing - part 1\\LibroConsoleAPI-TestClassesCreated_MethodsNotImplemented\\LibroConsoleAPI\\obj\\",
+      "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. IT part 1\\Libro\\LibroConsoleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",

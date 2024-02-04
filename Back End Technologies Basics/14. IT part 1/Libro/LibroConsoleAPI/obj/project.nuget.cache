@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYBunFUofPVpwv4GIV0deNqLbVENxKjAebLeghzA7DgH3Nmw6SwiLxoiWlLPO906hB2YuH5MocNN2vaxoGsLrA==",
+  "dgSpecHash": "dEVoZvsdsRumn+rcfHIEpIPsn7L+YG73glYRA7NYBNxD/7lsFkssBuKNFqR7LcXtLj3FqKxfh64inZWsAS0wtg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. Exercises Integration Testing - part 1\\LibroConsoleAPI-TestClassesCreated_MethodsNotImplemented\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+  "projectFilePath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\14. IT part 1\\Libro\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brum\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Brum\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
