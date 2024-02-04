@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+        "projectName": "TownApplication.IntegrationTests",
+        "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownApplication.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\TownsApplication.csproj": {
+                "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\TownsApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\TownsApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\TownsApplication.csproj",
+        "projectName": "TownsApplication",
+        "projectPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\TownsApplication.csproj",
+        "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Github\\SoftUni-QA\\Back End Technologies Basics\\13. Integration Testing\\TownsApplication\\TownsApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
