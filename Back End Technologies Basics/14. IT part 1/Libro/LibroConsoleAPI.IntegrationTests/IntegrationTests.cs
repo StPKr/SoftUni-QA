@@ -19,48 +19,9 @@ namespace LibroConsoleAPI.IntegrationTests
             _dbContext = fixture.DbContext;
         }
 
-        [Fact]
-        public async Task AddBookAsync_TryToAddBookWithInvalidCredentials_ShouldThrowException()
-        {
-            // Arrange
-
-            // Act
-
-            // Assert
-            //Assert.ThrowsAsync<ValidationException>(() => _bookManager.AddAsync(invalidBook));
-        }
-
-        [Fact]
-        public async Task DeleteBookAsync_WithValidISBN_ShouldRemoveBookFromDb()
-        {
-            // Arrange
-
-            // Act
-
-            // Assert
-            //var bookInDb = await _dbContext.Books.FindAsync(validIsbn);
-            //Assert.Null(bookInDb);
-        }
-        [Fact]
-        public async Task DeleteBookAsync_TryToDeleteWithNullOrWhiteSpaceISBN_ShouldThrowException()
-        {
-            // Arrange
-
-            // Act
-
-            // Assert
-        }
-
-        [Fact]
-        public async Task GetAllAsync_WhenBooksExist_ShouldReturnAllBooks()
-        {
-            // Arrange
-
-            // Act
-
-            // Assert
-        }
-
+        
+       
+        
         [Fact]
         public async Task GetAllAsync_WhenNoBooksExist_ShouldThrowKeyNotFoundException()
         {

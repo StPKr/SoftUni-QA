@@ -65,3 +65,4 @@ D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libr
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI\obj\Debug\net6.0\LibroConsoleAPI.pdb
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI\obj\Debug\net6.0\LibroConsoleAPI.genruntimeconfig.cache
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI\obj\Debug\net6.0\ref\LibroConsoleAPI.dll
+D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI\obj\Debug\net6.0\LibroConsoleAPI.sourcelink.json

@@ -152,3 +152,4 @@ D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libr
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI.IntegrationTests\obj\Debug\net6.0\LibroConsoleAPI.IntegrationTests.XUnit.pdb
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI.IntegrationTests\obj\Debug\net6.0\LibroConsoleAPI.IntegrationTests.XUnit.genruntimeconfig.cache
 D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI.IntegrationTests\obj\Debug\net6.0\ref\LibroConsoleAPI.IntegrationTests.XUnit.dll
+D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI.IntegrationTests\obj\Debug\net6.0\LibroConsoleAPI.IntegrationTests.XUnit.sourcelink.json

@@ -20,7 +20,7 @@ namespace LibroConsoleAPI.IntegrationTests.XUnit
         }
 
         [Fact]
-        public async Task DeletBookAsync_ShouldDeleteTheBook()
+        public async Task DeleteBookAsync_WithValidISBN_ShouldRemoveBookFromDb()
         {
             // Arrange
             /*var newBook = new Book
@@ -42,6 +42,18 @@ namespace LibroConsoleAPI.IntegrationTests.XUnit
             // Assert
             var bookInDb = _dbContext.Books.ToList();
             Assert.Equal(9, bookInDb.Count);
+        }
+
+        [Fact]
+        public async Task DeleteBookAsync_TryToDeleteWithNullOrWhiteSpaceISBN_ShouldThrowException()
+        {
+            // Arrange
+            await DatabaseSeeder.SeedDatabaseAsync(_dbContext, _bookManager);
+            // Act
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => _bookManager.DeleteAsync(""));
+            // Assert
+            Assert.Equal("ISBN cannot be empty.", exception.Result.Message);
+
         }
     }
 }

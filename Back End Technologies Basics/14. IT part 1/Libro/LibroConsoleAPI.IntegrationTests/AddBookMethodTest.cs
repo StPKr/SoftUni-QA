@@ -92,5 +92,24 @@ namespace LibroConsoleAPI.IntegrationTests.XUnit
             Assert.Null(bookInDb);
         }
 
+        [Fact]
+        public async Task AddBookAsync_TryToAddBookWithInvalidCredentials_ShouldThrowException()
+        {
+            // Arrange
+            var invalidBook = new Book
+            {
+                Title = "Test Book",
+                Author = "John Doe",
+                ISBN = "1234567890123",
+                YearPublished = 2021,
+                Genre = "Fiction",
+                Pages = -100,
+                Price = 19.99
+            };
+            // Act
+
+            // Assert
+            Assert.ThrowsAsync<ValidationException>(() => _bookManager.AddAsync(invalidBook));
+        }
     }
 }

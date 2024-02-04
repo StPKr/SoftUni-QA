@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibroConsoleAPI.IntegrationTests.XUnit
 build_property.ProjectDir = D:\Programming\Github\SoftUni-QA\Back End Technologies Basics\14. IT part 1\Libro\LibroConsoleAPI.IntegrationTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
