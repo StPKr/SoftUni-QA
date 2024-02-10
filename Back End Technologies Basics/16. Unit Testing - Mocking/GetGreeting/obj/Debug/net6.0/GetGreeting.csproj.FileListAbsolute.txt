@@ -1,0 +1,14 @@
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.exe
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.deps.json
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.runtimeconfig.json
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.dll
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\bin\Debug\net6.0\GetGreeting.pdb
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfoInputs.cache
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfo.cs
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.csproj.CoreCompileInputs.cache
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.dll
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\refint\GetGreeting.dll
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.pdb
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\GetGreeting.genruntimeconfig.cache
+C:\Users\Brum\Desktop\Programming\SoftUni-QA\Back End Technologies Basics\16. Unit Testing - Mocking\GetGreeting\obj\Debug\net6.0\ref\GetGreeting.dll
