@@ -5,6 +5,7 @@ using MoviesLibraryAPI.Controllers.Contracts;
 using MoviesLibraryAPI.Data.Models;
 using MoviesLibraryAPI.Services;
 using MoviesLibraryAPI.Services.Contracts;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace MoviesLibraryAPI.Tests
@@ -69,6 +70,13 @@ namespace MoviesLibraryAPI.Tests
             // Arrange
             var invalidMovie = new Movie
             {
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
+            {
                 // Provide an invalid movie object, for example, missing required fields like 'Title'
                 // Assuming 'Title' is a required field, do not set it
             };
@@ -82,11 +90,22 @@ namespace MoviesLibraryAPI.Tests
         public async Task DeleteAsync_WhenValidTitleProvided_ShouldDeleteMovie()
         {
             // Arrange            
-
+            var movie = new Movie
+            {
+                Title = "Test Movie",
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
+            await _controller.AddAsync(movie);
             // Act            
-
+            _controller.DeleteAsync(movie.Title);
             // Assert
             // The movie should no longer exist in the database
+            var result = await _dbContext.Movies.Find(m => m.Title == "Test Movie").FirstOrDefaultAsync();
+            Assert.IsNull(result);
         }
 
 
@@ -94,19 +113,26 @@ namespace MoviesLibraryAPI.Tests
         public async Task DeleteAsync_WhenTitleIsNull_ShouldThrowArgumentException()
         {
             // Act and Assert
-            //Assert.ThrowsAsync<ArgumentException>(() => _controller.DeleteAsync(null));
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => _controller.DeleteAsync(null));
+            Assert.AreEqual("Title cannot be empty.", exception.Message);
+
         }
 
         [Test]
         public async Task DeleteAsync_WhenTitleIsEmpty_ShouldThrowArgumentException()
         {
-            // Act and Assert            
+            // Act and Assert
+            var exception = Assert.ThrowsAsync<ArgumentException>(() => _controller.DeleteAsync(""));
+            Assert.AreEqual("Title cannot be empty.", exception.Message);
         }
 
         [Test]
         public async Task DeleteAsync_WhenTitleDoesNotExist_ShouldThrowInvalidOperationException()
         {
-            // Act and Assert            
+            // Act and Assert
+            const string nonExistingTitle = "Non existing title";
+            var exception = Assert.ThrowsAsync<InvalidOperationException>(() => _controller.DeleteAsync(nonExistingTitle));
+            Assert.AreEqual($"Movie with title '{nonExistingTitle}' not found.", exception.Message);
         }
 
         [Test]
@@ -123,30 +149,68 @@ namespace MoviesLibraryAPI.Tests
         public async Task GetAllAsync_WhenMoviesExist_ShouldReturnAllMovies()
         {
             // Arrange
+            var movie = new Movie
+            {
+                Title = "Test Movie",
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
+            await _controller.AddAsync(movie);
 
+            var secondMovie = new Movie
+            {
+                Title = "Test Movie 2",
+                Director = "Test Director 2",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 200,
+                Rating = 9.0
+            };
+            await _controller.AddAsync(secondMovie);
             // Act
-
+            var allMovies = await _controller.GetAllAsync();
             // Assert
             // Ensure that all movies are returned
+            Assert.IsNotEmpty(allMovies);
+            Assert.AreEqual(2, allMovies.Count());
+
+            var hasFirstMovie = allMovies.Any(x => x.Title == movie.Title);
+            Assert.IsTrue(hasFirstMovie);   
         }
 
         [Test]
         public async Task GetByTitle_WhenTitleExists_ShouldReturnMatchingMovie()
         {
             // Arrange
-
+            var secondMovie = new Movie
+            {
+                Title = "Test Movie 2",
+                Director = "Test Director 2",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 200,
+                Rating = 9.0
+            };
+            await _controller.AddAsync(secondMovie);
             // Act
-
+            var result = await _controller.GetByTitle(secondMovie.Title);
             // Assert
+            Assert.IsNotNull(result);
+            Assert.AreEqual(secondMovie.Title, result.Title);
+            Assert.AreEqual(secondMovie.Director, result.Director);
         }
 
         [Test]
         public async Task GetByTitle_WhenTitleDoesNotExist_ShouldReturnNull()
         {
             // Act
+            var result = await _controller.GetByTitle("Fake Title");
 
             // Assert
-            //Assert.IsNull(resultMovie);
+            Assert.IsNull(result);
         }
 
 
@@ -154,28 +218,76 @@ namespace MoviesLibraryAPI.Tests
         public async Task SearchByTitleFragmentAsync_WhenTitleFragmentExists_ShouldReturnMatchingMovies()
         {
             // Arrange
-
+            var movie = new Movie
+            {
+                Title = "Test Movie",
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
+            
+            var secondMovie = new Movie
+            {
+                Title = "Just Movie 2",
+                Director = "Test Director 2",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 200,
+                Rating = 9.0
+            };
+            await _dbContext.Movies.InsertManyAsync(new[] { movie, secondMovie });
             // Act
-
+            var result = await _controller.SearchByTitleFragmentAsync("Test");
             // Assert // Should return one matching movie
+            Assert.IsNotEmpty(result);
+            Assert.AreEqual(1, result.Count());
+            var resultMovie = result.First();
+            Assert.AreEqual(movie.Title, resultMovie.Title);
+            //... repeat for all properties
         }
 
         [Test]
         public async Task SearchByTitleFragmentAsync_WhenNoMatchingTitleFragment_ShouldThrowKeyNotFoundException()
         {
             // Act and Assert
+            Assert.ThrowsAsync<KeyNotFoundException>(() => _controller.SearchByTitleFragmentAsync("Does not exist"));
         }
 
         [Test]
         public async Task UpdateAsync_WhenValidMovieProvided_ShouldUpdateMovie()
         {
             // Arrange
+            var movie = new Movie
+            {
+                Title = "Test Movie",
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
+
+            var secondMovie = new Movie
+            {
+                Title = "Just Movie 2",
+                Director = "Test Director 2",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 200,
+                Rating = 9.0
+            };
+            await _dbContext.Movies.InsertManyAsync(new[] { movie, secondMovie });
 
             // Modify the movie
-
+            movie.Title = $"{movie.Title} UPDATED";
             // Act
-
+            await _controller.UpdateAsync(movie);
             // Assert
+            var result = await _dbContext.Movies.Find(x => x.Title == movie.Title).FirstOrDefaultAsync();
+            Assert.IsNotNull(result);
+            Assert.AreEqual(movie.Title, result.Title);
         }
 
         [Test]
@@ -183,8 +295,16 @@ namespace MoviesLibraryAPI.Tests
         {
             // Arrange
             // Movie without required fields
-
+            var movie = new Movie
+            {
+                Director = "Test Director",
+                YearReleased = 2022,
+                Genre = "Action",
+                Duration = 86,
+                Rating = 7.5
+            };
             // Act and Assert
+            Assert.ThrowsAsync<ValidationException>(() => _controller.UpdateAsync(movie));
         }
 
 
