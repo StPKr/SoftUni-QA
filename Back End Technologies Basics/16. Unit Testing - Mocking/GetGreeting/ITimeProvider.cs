@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GetGreeting
 {
-    internal interface ITimeProvider
+    public interface ITimeProvider
     {
+        DateTime GetCurrentTime();
     }
 }

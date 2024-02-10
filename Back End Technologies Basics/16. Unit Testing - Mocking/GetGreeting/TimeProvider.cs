@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace GetGreeting
 {
-    internal class TimeProvider
+    public class TimeProvider :ITimeProvider
     {
+        public DateTime GetCurrentTime()
+        {
+            return DateTime.Now;
+        }
+    }
+    
+    public class FakeTimeProvider : ITimeProvider
+    {
+        private DateTime _fakeTime;
+        
+        public FakeTimeProvider(DateTime fakeTime)
+        {
+           _fakeTime = DateTime.Now;
+        }
+
+        public DateTime GetCurrentTime()
+        {
+            return _fakeTime;
+        }
     }
 }
