@@ -1,0 +1,72 @@
+[
+  {
+    "speciesId": 9501,
+    "speciesName": "Grey Wolf",
+    "habitat": "Forest",
+    "lifespan": 8,
+    "habits": {
+      "diet": [ "Rodents", "Ungulates", "Berries" ],
+      "migration": "Long-range"
+    }
+  },
+  {
+    "speciesId": 9502,
+    "speciesName": "Humpback Whale",
+    "habitat": "Ocean",
+    "lifespan": 45,
+    "habits": {
+      "diet": [ "Krill", "Fish", "Plankton" ],
+      "migration": "Ocean crossing"
+    }
+  },
+  {
+    "speciesId": 9503,
+    "speciesName": "African Elephant",
+    "habitat": "Savannah",
+    "lifespan": 65,
+    "habits": {
+      "diet": [ "Grass", "Roots", "Fruits" ],
+      "migration": "Water tracking"
+    }
+  },
+  {
+    "speciesId": 9504,
+    "speciesName": "Bald Eagle",
+    "habitat": "Forest",
+    "lifespan": 20,
+    "habits": {
+      "diet": [ "Fish", "Carrion", "Mammals" ],
+      "migration": "Lake fishing"
+    }
+  },
+  {
+    "speciesId": 9505,
+    "speciesName": "Giant Panda",
+    "habitat": "Forest",
+    "lifespan": 20,
+    "habits": {
+      "diet": [ "Bamboo", "Shoots", "Leaves" ],
+      "migration": "Elevation shifts"
+    }
+  },
+  {
+    "speciesId": 9506,
+    "speciesName": "Monarch Butterfly",
+    "habitat": "Meadow",
+    "lifespan": 1,
+    "habits": {
+      "diet": [ "Nectar", "Milkweed", "Pollen" ],
+      "migration": "Mass migration"
+    }
+  },
+  {
+    "speciesId": 9507,
+    "speciesName": "Red Kangaroo",
+    "habitat": "Grassland",
+    "lifespan": 12,
+    "habits": {
+      "diet": [ "Grass", "Shrubs", "Leaves" ],
+      "migration": "Drought escape"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "CatalogNumber": "01HP01PRFC6E",
+    "Name": "Tomato",
+    "PlantType": "Creepers",
+    "FoodType": "Fruit",
+    "Quantity": 200,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFDBK",
+    "Name": "Cucumber",
+    "PlantType": "Creepers",
+    "FoodType": "Vegetable",
+    "Quantity": 234,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFEX2",
+    "Name": "Almond",
+    "PlantType": "Trees",
+    "FoodType": "Nut",
+    "Quantity": 78,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFFCY",
+    "Name": "Mint",
+    "PlantType": "Herbs",
+    "FoodType": "Herb",
+    "Quantity": 520,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFF4E",
+    "Name": "Rosary Pea",
+    "PlantType": "Climbers",
+    "FoodType": "Poison",
+    "Quantity": 10,
+    "IsEdible": false
+  },
+  {
+    "CatalogNumber": "01HP01PRFGWW",
+    "Name": "Potato",
+    "PlantType": "Flowering plant",
+    "FoodType": "Vegetable",
+    "Quantity": 500,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFHHW",
+    "Name": "Bulgarian Rose",
+    "PlantType": "Flower",
+    "FoodType": "Edible Flower",
+    "Quantity": 800,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFJDR",
+    "Name": "Purpleflower Pinkroot",
+    "PlantType": "Flower",
+    "FoodType": "Non-Edible Flower",
+    "Quantity": 50,
+    "IsEdible": false
+  },
+  {
+    "CatalogNumber": "01HP01PRFJ8N",
+    "Name": "Watermelon",
+    "PlantType": "Creepers",
+    "FoodType": "Fruit",
+    "Quantity": 200,
+    "IsEdible": true
+  },
+  {
+    "CatalogNumber": "01HP01PRFKV8",
+    "Name": "Basil",
+    "PlantType": "Herbs/Spices",
+    "FoodType": "Spices",
+    "Quantity": 150,
+    "IsEdible": true
+  }
+]
