@@ -1,0 +1,19 @@
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Demo Project.exe
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Demo Project.deps.json
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Demo Project.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Demo Project.dll
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Demo Project.pdb
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\System.Text.Json.dll
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.csproj.AssemblyReference.cache
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.sourcelink.json
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.csproj.CopyComplete
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.dll
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\refint\Demo Project.dll
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.pdb
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\Demo Project.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\obj\Debug\net8.0\ref\Demo Project.dll
+D:\Programming\Github\SoftUni-QA\Back End Test Automation\4. API BE test automation\Demo Project\bin\Debug\net8.0\Newtonsoft.Json.dll
