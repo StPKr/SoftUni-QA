@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Eventmi
+build_property.RootNamespace = Eventmi
+build_property.ProjectDir = D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Event/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Event/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Event/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Event/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming/Github/SoftUni-QA/04. Back End Test Automation/06. API BE exe 2/Eventmi-AppSkeleton/Eventmi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-630kgbcr6z

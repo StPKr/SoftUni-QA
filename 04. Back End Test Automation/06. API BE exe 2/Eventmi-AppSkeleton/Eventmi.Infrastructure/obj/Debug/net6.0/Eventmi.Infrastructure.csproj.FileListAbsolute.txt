@@ -1,0 +1,15 @@
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.deps.json
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.runtimeconfig.json
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfo.cs
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.sourcelink.json
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\refint\Eventmi.Infrastructure.dll
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.genruntimeconfig.cache
+D:\Programming\Github\SoftUni-QA\04. Back End Test Automation\06. API BE exe 2\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\ref\Eventmi.Infrastructure.dll
