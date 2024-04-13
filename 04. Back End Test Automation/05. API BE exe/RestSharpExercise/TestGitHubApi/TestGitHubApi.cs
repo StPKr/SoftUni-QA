@@ -141,39 +141,51 @@ namespace TestGitHubApi
         public void Test_CreateCommentOnGitHubIssue()
         {
             //Arrange
-            int issueNumber = 6;
-            string body = "New Body of the new Issue";
+            int issueNumber = 7564;
+            string body = "Test comment";
 
             //Act
             var comment = client.CreateCommentOnGitHubIssue(repo, issueNumber, body);
 
             //Assert
-            Assert.IsNotNull(comment, "Expected to retrieve a comment but got null.");
-            Assert.That(comment.Id, Is.EqualTo(issueNumber), "The retrieved comment ID should match the requested comment ID.");
+            Assert.That(comment.Body, Is.EqualTo(body), "The retrieved comment body should match the requested comment body.");
+            Console.WriteLine(comment.Id);
+            lastCreatedCommentId = comment.Id;
         }
 
         [Test, Order(7)]
         public void Test_GetCommentById()
         {
-            int commentId = 6;
+            int commentId = 2053621431;
 
-            var comment = client.GetCommentById(repo, commentId);
+            Comment comment = client.GetCommentById(repo, commentId);
 
-            Assert.That(comment, Is.Not.Null);
-            Assert.That(comment.Id, Is.EqualTo(commentId));
+            Assert.That(comment, Is.Not.Null, "Expected to receive a comment but got null.");
+            Assert.That(comment.Id, Is.EqualTo(commentId), "The retrieved comment ID should match the requested comment ID.");
         }
 
 
         [Test, Order(8)]
         public void Test_EditCommentOnGitHubIssue()
         {
+            int commentId = 2053621431;
+            string newBody = "This is the new body of the comment.";
 
+            var updatedComment = client.EditCommentOnGitHubIssue(repo, commentId, newBody);
+
+            Assert.IsNotNull(updatedComment, "The updated comment should not be null.");
+            Assert.That(updatedComment.Id, Is.EqualTo(commentId), "The updated comment ID should match the original comment ID.");
+            Assert.That(updatedComment.Body, Is.EqualTo(newBody), "The updated comment text should match the new body text");
         }
 
         [Test, Order(9)]
         public void Test_DeleteCommentOnGitHubIssue()
         {
+            int commentId = 2053621431;
 
+            bool result = client.DeleteCommentOnGitHubIssue(repo, commentId);
+
+            Assert.IsTrue(result, "The comment should be successfully deleted.");
         }
 
 
