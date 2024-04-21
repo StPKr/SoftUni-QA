@@ -11,8 +11,8 @@ namespace IdeaAPITesting
     {
         private RestClient client;
         private const string BASEURL = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84";
-        private const string EMAIL = "...";
-        private const string PASSWORD = "...";
+        private const string EMAIL = "pesho2@email.com";
+        private const string PASSWORD = "123456";
 
         private static string lastIdeaId;
 

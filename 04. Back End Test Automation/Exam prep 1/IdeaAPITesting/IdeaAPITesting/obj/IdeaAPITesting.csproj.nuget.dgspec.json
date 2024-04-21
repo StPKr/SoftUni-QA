@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {}
+    "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {
+    "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+        "projectUniqueName": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
         "projectName": "IdeaAPITesting",
-        "projectPath": "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+        "projectPath": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
         "packagesPath": "C:\\Users\\Brum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\obj\\",
+        "outputPath": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PDb/m6iF6i8xabfAjwdHPdZZa6p3ZhsXhu7WNyQr+m1RG/3cjJJXzWsx7hjlo0fgpSscnrYm0euy2xzi9cySaA==",
+  "dgSpecHash": "jcusxHSVaPFcSNl4XOQbQa+5uRI8ifIfDIc9Mfc1xizer8rWCwAFv00c5DXn2hLhGmDAJQ4KkHRh7wF2ZQxq8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brum\\Desktop\\Solutions_Angel_Georgiev\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
+  "projectFilePath": "C:\\Users\\Brum\\Desktop\\Programming\\SoftUni-QA\\04. Back End Test Automation\\Exam prep 1\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brum\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Brum\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
