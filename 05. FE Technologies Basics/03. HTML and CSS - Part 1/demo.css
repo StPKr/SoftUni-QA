@@ -1,0 +1,24 @@
+h2 {
+    color: yellow
+}
+
+#special {
+    color: gold;
+}
+
+.par1 {
+    color: green;
+}
+
+.par2 {
+    color: black;
+}
+
+#special,
+.par1 {
+    margin-left: 50px;
+}
+
+/* * {
+    margin-left: 50px;
+} */
