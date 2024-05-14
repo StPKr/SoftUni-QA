@@ -1,0 +1,17 @@
+body{
+    background-image: url("./logo.png");
+    background-repeat: no-repeat;
+    background-position: 350px 350px;
+}
+
+p{
+    text-align: center;
+    text-indent: 150px;
+    text-decoration: line-through;
+
+    border-style: dotted;
+    border-color: brown;
+    
+    font-family: 'Times New Roman', Times, 9;
+    font-size: larger;
+}
