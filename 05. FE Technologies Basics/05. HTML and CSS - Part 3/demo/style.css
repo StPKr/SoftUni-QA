@@ -1,0 +1,35 @@
+@import url('./typography.css');
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*mdeia-query template
+@media media-type and (condition:breakpoint) {
+    CSS rules go here
+} */
+
+/* @media screen and (max-width:500px) and (orientation: landsacape) {
+    body {
+        background-color: aquamarine;
+    }
+} logical AND */ 
+
+@media screen and (max-width:500px), screen and (orientation: landsacape) {
+    body {
+        background-color: aquamarine;
+    }
+} /* logical OR */
+
+@media screen and (min-width:501px) {
+    body {
+        background-color: cadetblue;
+    }
+}
+
+@media print {
+    body {
+        background-color: blueviolet;
+    }
+}
