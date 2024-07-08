@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma1qyAsHa7uMqGgCV7MYjQsoGQjnTLv6hYt/tG+C2eolVwEkYYTVGdMzxqgb4Uv/WJxHb+KTQ48EMXNsMc9y8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Github\\SoftUni-QA\\06. FE Test Autom\\05. Selenium WebDriver\\WebDriverWikiTest\\WebDriverWikiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brum\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Brum\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
