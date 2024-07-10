@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SimpleForm",
+    "\\WebDriverDemo",
+    "\\WebDriverDemo\\FillTheForm",
+    "\\WebDriverDemo\\FirstTest",
+    "\\WebDriverDemo\\Locators",
+    "\\WebDriverDemo\\LocatorsWithAssertions",
+    "\\WebDriverDemo\\WebDriverDemo"
+  ],
+  "SelectedNode": "\\WebDriverDemo\\LocatorsWithAssertions\\LocatorsWithAssertions.cs",
+  "PreviewInSolutionExplorer": false
+}
